@@ -2,10 +2,10 @@
 const products = [
     {
         id: 1,
-        name: "Royal Eternity Ring",
-        price: 150,
+        name: "KAMADHENU NECKLACE",
+        price: 39,
         category: "Ring",
-        image: "Ring-1.jpg"
+        image: "ANTIQUE/ENS.jpeg"
     },
     {
         id: 2,
