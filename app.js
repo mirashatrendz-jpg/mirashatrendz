@@ -2,65 +2,65 @@
 const products = [
     {
         id: 1,
-        name: "KAMADHENU NECKLACE",
-        price: 39,
-        category: "Ring",
-        image: "ANTIQUE/ENS.jpeg"
+        name: "Royal Eternity Necklace",
+        price: 150,
+        category: "Necklaces",
+        image: "Ring-1.jpg"
     },
     {
         id: 2,
-        name: "Classic Diamond Solitaire (Impressed)",
+        name: "Classic Diamond Haaram",
         price: 220,
-        category: "Ring",
+        category: "Haarams",
         image: "Ring-2.jpg"
     },
     {
         id: 3,
-        name: "Gold Braided Chain",
+        name: "Gold Braided AD Necklace",
         price: 340,
-        category: "Chain",
+        category: "AD Necklaces",
         image: "Chain-1.jpg"
     },
     {
         id: 4,
-        name: "Minimalist Pendant Chain",
+        name: "Minimalist Pendant Earrings",
         price: 180,
-        category: "Chain",
+        category: "Earrings",
         image: "Chain-2.jpg"
     },
     {
         id: 5,
-        name: "Signature Link Bracelet",
+        name: "Signature Link Bangles",
         price: 260,
-        category: "Bracelet",
+        category: "Bangles",
         image: "Bracelet-1.jpg"
     },
     {
         id: 6,
-        name: "Pearl Accented Bracelet",
+        name: "Pearl Accented Anti-Tarnish",
         price: 210,
-        category: "Bracelet",
+        category: "Anti-Tarnish",
         image: "Bracelet-2.jpg"
     },
     {
         id: 7,
-        name: "Vintage Ring",
+        name: "Vintage Jasmine String",
         price: 195,
-        category: "Ring",
+        category: "Jasmine Strings",
         image: "Ring-3.jpg"
     },
     {
         id: 8,
-        name: "Elegant Drop Chain",
+        name: "Elegant Drop Necklace",
         price: 290,
-        category: "Chain",
+        category: "Necklaces",
         image: "Chain-3.jpg"
     },
     {
         id: 9,
-        name: "Charm Bracelet",
+        name: "Charm Bangles",
         price: 240,
-        category: "Bracelet",
+        category: "Bangles",
         image: "Bracelet-3.jpg"
     }
 ];
