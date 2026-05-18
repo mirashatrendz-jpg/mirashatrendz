@@ -2,7 +2,7 @@
 const products = [
     {
         id: 1,
-        name: "Royal Eternity Necklace 123",
+        name: "Royal Eternity Necklace",
         price: 150,
         category: "Necklaces",
         image: "Ring-1.jpg"
