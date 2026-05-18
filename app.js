@@ -62,6 +62,13 @@ const products = [
         price: 350,
         category: "Anti-Tarnish",
         image: "product-test-1.jpg"
+    },
+    {
+        id: 11,
+        name: "Product test 2",
+        price: 450,
+        category: "Anti-Tarnish",
+        image: "Anti-Tarnish/product-test-2.jpg"
     }
 ];
 
