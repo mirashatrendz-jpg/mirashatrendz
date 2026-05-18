@@ -29,13 +29,6 @@ const products = [
         image: "Chain-2.jpg"
     },
     {
-        id: 5,
-        name: "Signature Link Bangles",
-        price: 260,
-        category: "Bangles",
-        image: "Bracelet-1.jpg"
-    },
-    {
         id: 6,
         name: "Pearl Accented Anti-Tarnish",
         price: 210,
