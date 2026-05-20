@@ -2,10 +2,10 @@
 const products = [
     {
         id: 1,
-        name: "Royal Eternity Necklace",
-        price: 150,
+        name: "Lotus choker",
+        price: 39,
         category: "Necklaces",
-        image: "Ring-1.jpg"
+        image: "Lotus Choker"
     },
     {
         id: 2,
