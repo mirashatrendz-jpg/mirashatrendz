@@ -16,10 +16,10 @@ const products = [
     },
     {
         id: 3,
-        name: "Gold Braided AD Necklace",
-        price: 340,
+        name: "Navaratna Necklace",
+        price: 69,
         category: "AD Necklaces",
-        image: "Chain-1.jpg"
+        image: "NAVARATNA"
     },
     {
         id: 4,
