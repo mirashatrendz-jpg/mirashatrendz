@@ -47,7 +47,7 @@ const products = [
         name: "KAMADHENU NECKLACE Necklace",
         price: 39,
         category: "Necklaces",
-        image: "KAMADHENUNECKLACE"
+        image: "KAMADHENUNECKLACE.jpeg"
     },
     {
         id: 9,
