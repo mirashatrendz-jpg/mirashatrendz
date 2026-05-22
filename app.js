@@ -3,7 +3,7 @@ const products = [
     {
         id: 1,
         name: "Idol Coin Maanga Necklace ",
-        price: 39,
+        price: 49,
         category: "Necklaces",
         image: "Lotus Choker.jpeg"
     },
