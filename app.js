@@ -2,10 +2,17 @@
 const products = [
     {
         id: 1,
-        name: "Lotus choker",
+        name: "Lotus Choker",
         price: 39,
         category: "Necklaces",
         image: "Lotus Choker.jpeg"
+    },
+      {
+        id: 1,
+        name: "Layerd Pearl Chain with Pendant ",
+        price: 39,
+        category: "Necklaces",
+        image: "LAYEREDPEARLCHAINWITHPENDANT.jpeg"
     },
     {
         id: 2,
