@@ -44,10 +44,10 @@ const products = [
     },
     {
         id: 8,
-        name: "Elegant Drop Necklace",
-        price: 290,
+        name: "KAMADHENU NECKLACE Necklace",
+        price: 39,
         category: "Necklaces",
-        image: "Chain-3.jpg"
+        image: "KAMADHENUNECKLACE"
     },
     {
         id: 9,
