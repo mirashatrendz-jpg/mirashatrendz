@@ -5,7 +5,7 @@ const products = [
         name: "Lotus choker",
         price: 39,
         category: "Necklaces",
-        image: "Lotus Choker"
+        image: "Lotus Choker.jpeg"
     },
     {
         id: 2,
