@@ -22,6 +22,13 @@ const products = [
         image: "NAVARATNA.jpeg"
     },
     {
+        id: 3,
+        name: "Premium Queen AD Necklaces",
+        price: 99,
+        category: "AD Necklaces",
+        image: "PREMIUMQUEENADNECKLACE.jpeg"
+    },
+    {
         id: 4,
         name: "Minimalist Pendant Earrings",
         price: 180,
