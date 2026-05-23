@@ -152,7 +152,7 @@ const products = [
         name: "Openable Pink Enamel Butterfly Pendant Necklace",
         price: 19,
         category: "Anti-Tarnish",
-        image: "OpenablePinkEnamelButterflyPendantNecklacE.jpeg"
+        image: "OpenablePinkEnamelButterflyPendantNecklace.jpeg"
     },
 ];
 
