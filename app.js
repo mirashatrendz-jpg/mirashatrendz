@@ -97,7 +97,7 @@ const products = [
         price: 19,
         category: "Anti-Tarnish",
         image: "SolidHeartCharmsNecklace.jpeg"
-    }
+    },
 ];
 
 // --- State ---
