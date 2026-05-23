@@ -72,6 +72,27 @@ const products = [
     },
     {
         id: 9,
+        name: "AdjustableButtereflyDesignHandcuff",
+        price: 19,
+        category: "Bangles",
+        image: "AdjustableButtereflyDesignHandcuff.jpg"
+    },
+    {
+        id: 9,
+        name: "Charm Bangles",
+        price: 240,
+        category: "Bangles",
+        image: "Bracelet-3.jpg"
+    },
+    {
+        id: 9,
+        name: "Charm Bangles",
+        price: 240,
+        category: "Bangles",
+        image: "Bracelet-3.jpg"
+    },
+    {
+        id: 9,
         name: "Charm Bangles",
         price: 240,
         category: "Bangles",
