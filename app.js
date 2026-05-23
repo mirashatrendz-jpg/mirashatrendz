@@ -140,6 +140,13 @@ const products = [
         category: "Anti-Tarnish",
         image: "DoubleLayerNecklaceWithHeartandBow.jpeg"
     },
+     {
+        id: 11,
+        name: "BlackStone Charms Necklace",
+        price: 19,
+        category: "Anti-Tarnish",
+        image: "BlackStoneCharmsNecklace.jpeg"
+    },
 ];
 
 // --- State ---
