@@ -72,10 +72,10 @@ const products = [
     },
     {
         id: 9,
-        name: "AdjustableButtereflyDesignHandcuff",
+        name: "Adjustable Butterfly Design Handcuff",
         price: 19,
         category: "Bangles",
-        image: "AdjustableButtereflyDesignHandcuff.jpg"
+        image: "AdjustableButterflyDesignHandcuff.jpg"
     },
     {
         id: 9,
