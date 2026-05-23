@@ -119,6 +119,13 @@ const products = [
         category: "Anti-Tarnish",
         image: "SolidButterflyCharmswithColorfulStonesNecklace.jpeg"
     },
+      {
+        id: 11,
+        name: "Openable Floral Pendant Necklace",
+        price: 19,
+        category: "Anti-Tarnish",
+        image: "OpenableFloralPendantNecklace.jpeg"
+    },
 ];
 
 // --- State ---
