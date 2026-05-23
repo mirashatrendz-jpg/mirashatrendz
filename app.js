@@ -79,10 +79,10 @@ const products = [
     },
     {
         id: 9,
-        name: "Charm Bangles",
-        price: 240,
+        name: "AdjustableMultilayerWiresWrapHandcuff",
+        price: 19,
         category: "Bangles",
-        image: "Bracelet-3.jpg"
+        image: "AdjustableMultilayerWiresWrapHandcuff.jpeg"
     },
     {
         id: 9,
