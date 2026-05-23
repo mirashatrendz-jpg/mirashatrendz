@@ -79,10 +79,10 @@ const products = [
     },
     {
         id: 10,
-        name: "Product test 1",
-        price: 350,
+        name: "Eternal Hollow Heart Charm and Crystal Necklace",
+        price: 19,
         category: "Anti-Tarnish",
-        image: "product-test-1.jpg"
+        image: "EternalHollowHeartCharmandCrystalNecklace.jpeg"
     },
     {
         id: 11,
