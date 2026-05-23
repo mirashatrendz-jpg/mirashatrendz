@@ -50,6 +50,13 @@ const products = [
         image: "Bracelet-2.jpg"
     },
     {
+        id: 6,
+        name: "Adjustable Snake Chain with Black Stone Pendant",
+        price: 210,
+        category: "Anti-Tarnish",
+        image: "AdjustableSnakeChainwithBlackStonePendant.jpeg"
+    },
+    {
         id: 7,
         name: "Vintage Jasmine String",
         price: 195,
