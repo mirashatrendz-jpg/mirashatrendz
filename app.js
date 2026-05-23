@@ -90,6 +90,13 @@ const products = [
         price: 19,
         category: "Anti-Tarnish",
         image: "GoldFloralWithCentralCrystalNecklace.jpeg"
+    },
+      {
+        id: 11,
+        name: "Solid Heart Charms Necklace",
+        price: 19,
+        category: "Anti-Tarnish",
+        image: "SolidHeartCharmsNecklace.jpeg"
     }
 ];
 
