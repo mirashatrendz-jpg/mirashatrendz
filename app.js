@@ -147,6 +147,13 @@ const products = [
         category: "Anti-Tarnish",
         image: "BlackStoneCharmsNecklace.jpeg"
     },
+     {
+        id: 11,
+        name: "Openable Pink Enamel Butterfly Pendant Necklace",
+        price: 19,
+        category: "Anti-Tarnish",
+        image: "OpenablePinkEnamelButterflyPendantNecklace.jpeg"
+    },
 ];
 
 // --- State ---
