@@ -86,10 +86,10 @@ const products = [
     },
     {
         id: 11,
-        name: "Product test 2",
-        price: 450,
+        name: "Gold Floral With Central Crystal Necklace",
+        price: 19,
         category: "Anti-Tarnish",
-        image: "Anti-Tarnish/product-test-2.jpg"
+        image: "GoldFloralWithCentralCrystalNecklace.jpeg"
     }
 ];
 
