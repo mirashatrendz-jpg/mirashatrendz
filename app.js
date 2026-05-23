@@ -105,6 +105,13 @@ const products = [
         category: "Anti-Tarnish",
         image: "EnameldetailsCatandFlowerPendantNecklace.jpeg"
     },
+      {
+        id: 11,
+        name: "FloralCharmsandColourfulStonesNecklace",
+        price: 19,
+        category: "Anti-Tarnish",
+        image: "FloralCharmsandColourfulStonesNecklace.jpeg"
+    },
 ];
 
 // --- State ---
