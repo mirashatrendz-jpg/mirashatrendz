@@ -52,7 +52,7 @@ const products = [
     {
         id: 6,
         name: "Adjustable Snake Chain with Black Stone Pendant",
-        price: 210,
+        price: 19,
         category: "Anti-Tarnish",
         image: "AdjustableSnakeChainwithBlackStonePendant.jpeg"
     },
