@@ -133,6 +133,13 @@ const products = [
         category: "Anti-Tarnish",
         image: "CherryCharmPendantNecklace.jpeg"
     },
+      {
+        id: 11,
+        name: "Double Layer Necklace With Heart and Bow",
+        price: 19,
+        category: "Anti-Tarnish",
+        image: "DoubleLayerNecklaceWithHeartandBow.jpeg"
+    },
 ];
 
 // --- State ---
