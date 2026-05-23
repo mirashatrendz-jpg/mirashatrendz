@@ -98,6 +98,13 @@ const products = [
         category: "Anti-Tarnish",
         image: "SolidHeartCharmsNecklace.jpeg"
     },
+       {
+        id: 11,
+        name: "Enamel details Cat and Flower Pendant Necklace",
+        price: 19,
+        category: "Anti-Tarnish",
+        image: "EnameldetailsCatandFlowerPendantNecklace.jpeg"
+    },
 ];
 
 // --- State ---
