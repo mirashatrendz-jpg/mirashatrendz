@@ -79,17 +79,17 @@ const products = [
     },
     {
         id: 9,
-        name: "AdjustableMultilayerWiresWrapHandcuff",
+        name: "Adjustable Multilayer Wires Wrap Handcuff",
         price: 19,
         category: "Bangles",
         image: "AdjustableMultilayerWiresWrapHandcuff.jpeg"
     },
     {
         id: 9,
-        name: "Charm Bangles",
-        price: 240,
+        name: "Adjustable Gold Floral Design Handcuff",
+        price: 19,
         category: "Bangles",
-        image: "Bracelet-3.jpg"
+        image: "AdjustableGoldFloralDesignHandcuff.jpeg"
     },
     {
         id: 9,
