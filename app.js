@@ -44,10 +44,10 @@ const products = [
     },
     {
         id: 6,
-        name: "Pearl Accented Anti-Tarnish",
-        price: 210,
+        name: "Adjustable Chain with Waterdrop Pendant",
+        price: 19,
         category: "Anti-Tarnish",
-        image: "Bracelet-2.jpg"
+        image: "AdjustableChainwithWaterdropPendant.jpeg"
     },
     {
         id: 6,
