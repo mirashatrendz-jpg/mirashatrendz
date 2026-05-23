@@ -93,10 +93,10 @@ const products = [
     },
     {
         id: 9,
-        name: "Charm Bangles",
+        name: "Adjustable Daisy Flower Handcuff",
         price: 240,
         category: "Bangles",
-        image: "Bracelet-3.jpg"
+        image: "AdjustableDaisyFlowerHandcuff.jpeg"
     },
     {
         id: 10,
