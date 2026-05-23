@@ -77,25 +77,32 @@ const products = [
         category: "Bangles",
         image: "AdjustableButterflyDesignHandcuff.jpeg"
     },
+     {
+        id: 9,
+        name: "Adjustable Butterfly Design Handcuff",
+        price: 19,
+        category: "Anti-Tarnish",
+        image: "AdjustableButterflyDesignHandcuff.jpeg"
+    },
     {
         id: 9,
         name: "Adjustable Multilayer Wires Wrap Handcuff",
         price: 19,
-        category: "Bangles",
+        category: "Anti-Tarnish",
         image: "AdjustableMultilayerWiresWrapHandcuff.jpeg"
     },
     {
         id: 9,
         name: "Adjustable Gold Floral Design Handcuff",
         price: 19,
-        category: "Bangles",
+        category: "Anti-Tarnish",
         image: "AdjustableGoldFloralDesignHandcuff.jpeg"
     },
     {
         id: 9,
         name: "Adjustable Daisy Flower Handcuff",
-        price: 240,
-        category: "Bangles",
+        price: 19,
+        category: "Anti-Tarnish",
         image: "AdjustableDaisyFlowerHandcuff.jpeg"
     },
     {
