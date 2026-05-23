@@ -126,6 +126,13 @@ const products = [
         category: "Anti-Tarnish",
         image: "OpenableFloralPendantNecklace.jpeg"
     },
+    {
+        id: 11,
+        name: "Cherry Charm Pendant Necklace",
+        price: 19,
+        category: "Anti-Tarnish",
+        image: "CherryCharmPendantNecklace.jpeg"
+    },
 ];
 
 // --- State ---
