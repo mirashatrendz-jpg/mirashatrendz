@@ -135,10 +135,10 @@ const products = [
     },
     {
         id: 9,
-        name: "Matte Elephant Motifs",
-        price: 29,
+        name: "Non-Idol Multistone Matte Bangles",
+        price: 39,
         category: "Bangles",
-        image: "MatteElephantMotifs.JPG.jpeg"
+        image: "Non-IdolMultistoneMatteBangles.JPG.jpeg"
     },
     {
         id: 9,
