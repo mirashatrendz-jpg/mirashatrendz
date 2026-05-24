@@ -72,6 +72,41 @@ const products = [
     },
     {
         id: 9,
+        name: "Mayura Non-Idol Bangles",
+        price: 29,
+        category: "Bangles",
+        image: "MayuraNon-IdolBangles.JPG.jpeg"
+    },
+     {
+        id: 9,
+        name: "Adjustable Butterfly Design Handcuff",
+        price: 19,
+        category: "Bangles",
+        image: "AdjustableButterflyDesignHandcuff.jpeg"
+    },
+     {
+        id: 9,
+        name: "Adjustable Butterfly Design Handcuff",
+        price: 19,
+        category: "Bangles",
+        image: "AdjustableButterflyDesignHandcuff.jpeg"
+    },
+     {
+        id: 9,
+        name: "Adjustable Butterfly Design Handcuff",
+        price: 19,
+        category: "Bangles",
+        image: "AdjustableButterflyDesignHandcuff.jpeg"
+    },
+     {
+        id: 9,
+        name: "Adjustable Butterfly Design Handcuff",
+        price: 19,
+        category: "Bangles",
+        image: "AdjustableButterflyDesignHandcuff.jpeg"
+    },
+     {
+        id: 9,
         name: "Adjustable Butterfly Design Handcuff",
         price: 19,
         category: "Bangles",
