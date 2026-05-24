@@ -108,7 +108,7 @@ const products = [
      {
         id: 9,
         name: "Adjustable Butterfly Design Handcuff",
-        price: 19,
+        price: 129,
         category: "Bangles",
         image: "AdjustableButterflyDesignHandcuff.jpeg"
     },
