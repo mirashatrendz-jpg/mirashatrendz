@@ -107,10 +107,10 @@ const products = [
     },
      {
         id: 9,
-        name: "Adjustable Butterfly Design Handcuff",
-        price: 129,
+        name: "Matte Elephant Motifs",
+        price: 29,
         category: "Bangles",
-        image: "AdjustableButterflyDesignHandcuff.jpeg"
+        image: "MatteElephantMotifs.JPG.jpeg"
     },
      {
         id: 9,
