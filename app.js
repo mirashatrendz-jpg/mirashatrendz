@@ -100,10 +100,10 @@ const products = [
     },
      {
         id: 9,
-        name: "Adjustable Butterfly Design Handcuff",
-        price: 29,
+        name: "EmerladStoneGoddessBangle",
+        price: 39,
         category: "Bangles",
-        image: "AdjustableButterflyDesignHandcuff.jpeg"
+        image: "EmerladStoneGoddessBangle.JPG.jpeg"
     },
      {
         id: 9,
