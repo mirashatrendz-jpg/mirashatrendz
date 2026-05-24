@@ -147,6 +147,13 @@ const products = [
         category: "Bangles",
         image: "MultistoneBeautifulGoddessBangles.JPG.jpeg"
     },
+      {
+        id: 9,
+        name: "Multistone Beautiful Goddess Bangles",
+        price: 39,
+        category: "Bangles",
+        image: "MultistoneBeautifulGoddessBangles.JPG.jpeg"
+    },
      {
         id: 9,
         name: "Adjustable Butterfly Design Handcuff",
