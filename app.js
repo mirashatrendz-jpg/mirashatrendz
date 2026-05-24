@@ -94,7 +94,7 @@ const products = [
      {
         id: 9,
         name: "Multistone Non-Idol Bangles",
-        price: 19,
+        price: 39,
         category: "Bangles",
         image: "MultistoneNon-IdolBangles.JPG.jpeg"
     },
