@@ -93,10 +93,10 @@ const products = [
     },
      {
         id: 9,
-        name: "Adjustable Butterfly Design Handcuff",
+        name: "Multistone Non-Idol Bangles",
         price: 19,
         category: "Bangles",
-        image: "AdjustableButterflyDesignHandcuff.jpeg"
+        image: "MultistoneNon-IdolBangles.JPG.jpeg"
     },
      {
         id: 9,
