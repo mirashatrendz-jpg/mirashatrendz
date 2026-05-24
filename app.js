@@ -112,6 +112,41 @@ const products = [
         category: "Bangles",
         image: "MatteElephantMotifs.JPG.jpeg"
     },
+    {
+        id: 9,
+        name: "Openable Premium Camel Motif Kadas",
+        price: 79,
+        category: "Bangles",
+        image: "OpenablePremiumCamelMotifKadas.JPG.jpeg"
+    },
+    {
+        id: 9,
+        name: "Matte Elephant Motifs",
+        price: 29,
+        category: "Bangles",
+        image: "MatteElephantMotifs.JPG.jpeg"
+    },
+    {
+        id: 9,
+        name: "Matte Elephant Motifs",
+        price: 29,
+        category: "Bangles",
+        image: "MatteElephantMotifs.JPG.jpeg"
+    },
+    {
+        id: 9,
+        name: "Matte Elephant Motifs",
+        price: 29,
+        category: "Bangles",
+        image: "MatteElephantMotifs.JPG.jpeg"
+    },
+    {
+        id: 9,
+        name: "Matte Elephant Motifs",
+        price: 29,
+        category: "Bangles",
+        image: "MatteElephantMotifs.JPG.jpeg"
+    },
      {
         id: 9,
         name: "Adjustable Butterfly Design Handcuff",
