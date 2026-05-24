@@ -86,10 +86,10 @@ const products = [
     },
      {
         id: 9,
-        name: "Adjustable Butterfly Design Handcuff",
-        price: 19,
+        name: "Green Palakka Bangles",
+        price: 39,
         category: "Bangles",
-        image: "AdjustableButterflyDesignHandcuff.jpeg"
+        image: "GreenPalakkaBangles.JPG.jpeg"
     },
      {
         id: 9,
