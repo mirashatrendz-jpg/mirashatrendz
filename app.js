@@ -121,10 +121,10 @@ const products = [
     },
     {
         id: 9,
-        name: "Matte Elephant Motifs",
-        price: 29,
+        name: "Openable Premium Ganesha Elephant Kadas",
+        price: 59,
         category: "Bangles",
-        image: "MatteElephantMotifs.JPG.jpeg"
+        image: "OpenablePremiumGaneshaElephantKadas.JPG.jpeg"
     },
     {
         id: 9,
