@@ -128,10 +128,10 @@ const products = [
     },
     {
         id: 9,
-        name: "Matte Elephant Motifs",
-        price: 29,
+        name: "RAMPARIVAR Openable Premium Kadas",
+        price: 79,
         category: "Bangles",
-        image: "MatteElephantMotifs.JPG.jpeg"
+        image: "RAMPARIVAROpenablePremiumKadas.JPG.jpeg"
     },
     {
         id: 9,
