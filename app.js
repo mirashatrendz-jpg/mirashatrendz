@@ -184,6 +184,13 @@ const products = [
     },
      {
         id: 9,
+        name: "InterlockingRingBangles",
+        price: 19,
+        category: "Bangles",
+        image: "InterlockingRingBangles.jpeg"
+    },
+     {
+        id: 9,
         name: "Multistone Layered Bangle",
         price: 19,
         category: "Bangles",
