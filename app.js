@@ -170,10 +170,10 @@ const products = [
     },
      {
         id: 9,
-        name: "Clustered White Floral Split Bangles",
+        name: "OpenType Ruby White Flower Bangle",
         price: 19,
         category: "Bangles",
-        image: "ClusteredWhiteFloralSplitBangles.jpeg"
+        image: "OpenTypeRubyWhiteFlower.jpeg"
     },
     {
      
