@@ -79,6 +79,13 @@ const products = [
     },
      {
         id: 9,
+        name: "Kempstone Antique Bangles",
+        price: 39,
+        category: "Bangles",
+        image: "KempstoneAntiqueBangles.jpeg"
+    },
+     {
+        id: 9,
         name: "Multistone Goddess Bangles",
         price: 59,
         category: "Bangles",
