@@ -163,7 +163,7 @@ const products = [
     },
      {
         id: 9,
-        name: "Three Circular Stone Bangles",
+        name: "Three CircularStone Bangles",
         price: 19,
         category: "Bangles",
         image: "ThreeCircularStoneBangles.jpeg"
