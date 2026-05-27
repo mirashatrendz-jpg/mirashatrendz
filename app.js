@@ -163,10 +163,10 @@ const products = [
     },
      {
         id: 9,
-        name: "Multistone Beautiful Goddess Bangles",
-        price: 39,
+        name: "Three Circular Stone Bangles",
+        price: 19,
         category: "Bangles",
-        image: "MultistoneBeautifulGoddessBangles.JPG.jpeg"
+        image: "ThreeCircularStoneBangles.jpeg"
     },
      {
         id: 9,
