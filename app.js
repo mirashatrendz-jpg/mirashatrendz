@@ -154,6 +154,27 @@ const products = [
         category: "Bangles",
         image: "MultistoneBeautifulGoddessBangles.JPG.jpeg"
     },
+     {
+        id: 9,
+        name: "Infine Love Bangles",
+        price: 19,
+        category: "Bangles",
+        image: "Infinelovebangles.jpeg"
+    },
+     {
+        id: 9,
+        name: "Multistone Beautiful Goddess Bangles",
+        price: 39,
+        category: "Bangles",
+        image: "MultistoneBeautifulGoddessBangles.JPG.jpeg"
+    },
+     {
+        id: 9,
+        name: "Multistone Beautiful Goddess Bangles",
+        price: 39,
+        category: "Bangles",
+        image: "MultistoneBeautifulGoddessBangles.JPG.jpeg"
+    },
     {
      
         id: 9,
