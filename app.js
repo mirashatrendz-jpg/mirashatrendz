@@ -170,10 +170,10 @@ const products = [
     },
      {
         id: 9,
-        name: "Multistone Beautiful Goddess Bangles",
-        price: 39,
+        name: "Clustered White Floral Split Bangles",
+        price: 19,
         category: "Bangles",
-        image: "MultistoneBeautifulGoddessBangles.JPG.jpeg"
+        image: "ClusteredWhiteFloralSplitBangles.jpeg"
     },
     {
      
