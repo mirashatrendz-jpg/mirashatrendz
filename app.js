@@ -184,10 +184,10 @@ const products = [
     },
      {
         id: 9,
-        name: "OpenType Ruby White Flower Bangle",
+        name: "Multistone Layered Bangle",
         price: 19,
         category: "Bangles",
-        image: "OpenTypeRubyWhiteFlower.jpeg"
+        image: "Multistone Layered Bangle.JPG.jpeg"
     },
     {
      
