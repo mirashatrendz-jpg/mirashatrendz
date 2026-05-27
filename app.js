@@ -175,6 +175,20 @@ const products = [
         category: "Bangles",
         image: "OpenTypeRubyWhiteFlower.jpeg"
     },
+     {
+        id: 9,
+        name: "Clustered White Floral Split Bangles",
+        price: 19,
+        category: "Bangles",
+        image: "ClusteredWhiteFloralSplitBangles.jpeg"
+    },
+     {
+        id: 9,
+        name: "OpenType Ruby White Flower Bangle",
+        price: 19,
+        category: "Bangles",
+        image: "OpenTypeRubyWhiteFlower.jpeg"
+    },
     {
      
         id: 9,
