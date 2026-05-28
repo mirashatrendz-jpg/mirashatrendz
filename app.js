@@ -191,10 +191,10 @@ const products = [
     },
      {
         id: 9,
-        name: "Multistone Layered Bangle",
-        price: 19,
-        category: "Bangles",
-        image: "Multistone Layered Bangle.JPG.jpeg"
+        name: "Double Layer Kemp Multistone Necklace",
+        price: 29,
+        category: "Necklaces",
+        image: "DoubleLayerKempMultistoneNecklace.jpeg"
     },
     {
      
