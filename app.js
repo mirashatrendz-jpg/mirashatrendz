@@ -17,9 +17,16 @@ const products = [
     {
         id: 1,
         name: "ThreeLayer Gold And Pearl Beads Necklace",
-        price: 49,
+        price: 39,
         category: "Necklaces",
         image: "ThreeLayerGoldAndPearlBeadsNecklace.jpeg"
+    },
+    {
+        id: 1,
+        name: "SquareCut Emeralds Lakshmi Pendant Chain",
+        price: 39,
+        category: "Necklaces",
+        image: "SquareCutEmeraldsLakshmiPendantChain.jpeg"
     },
       {
         id: 1,
