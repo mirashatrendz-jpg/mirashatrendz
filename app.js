@@ -56,6 +56,13 @@ const products = [
         category: "AD Necklaces",
         image: "PREMIUMQUEENADNECKLACE.jpeg"
     },
+     {
+        id: 3,
+        name: "Ruby And Daimond Leaf Invisible AD",
+        price: 59,
+        category: "AD Necklaces",
+        image: "RubyAndDaimondLeafInvisibleAD.jpeg"
+    },
     {
         id: 4,
         name: "Minimalist Pendant Earrings",
