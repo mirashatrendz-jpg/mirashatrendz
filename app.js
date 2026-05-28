@@ -9,6 +9,13 @@ const products = [
     },
       {
         id: 1,
+        name: "KempStoneGreenMangoPalakka ",
+        price: 49,
+        category: "Necklaces",
+        image: "KempStoneGreenMangoPalakka.jpeg"
+    },
+      {
+        id: 1,
         name: "Layerd Pearl Chain with Pendant ",
         price: 29,
         category: "Necklaces",
