@@ -14,6 +14,13 @@ const products = [
         category: "Necklaces",
         image: "KempStoneGreenMangoPalakka.jpeg"
     },
+    {
+        id: 1,
+        name: "ThreeLayer Gold And Pearl Beads Necklace",
+        price: 49,
+        category: "Necklaces",
+        image: "ThreeLayerGoldAndPearlBeadsNecklace.jpeg"
+    },
       {
         id: 1,
         name: "Layerd Pearl Chain with Pendant ",
