@@ -40,7 +40,7 @@ const products = [
         name: "Lakshmi Coin Kemp Flower Choker Set",
         price: 49,
         category: "Necklaces",
-        image: "LakshmiCoinKempFlowerChokerSet - Copy.jpeg"
+        image: "LakshmiCoinKempFlowerChokerSet.jpeg"
     },
     {
         id: 1,
