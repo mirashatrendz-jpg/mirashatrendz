@@ -21,6 +21,13 @@ const products = [
         category: "Necklaces",
         image: "GreenMaangaInvisibleChain.jpeg"
     },
+     {
+        id: 1,
+        name: "RubyStoneBeautifulGoddessWhitebeadsNecklace",
+        price: 49,
+        category: "Necklaces",
+        image: "RubyStoneBeautifulGoddessWhitebeadsNecklace.jpeg"
+    },
       {
         id: 1,
         name: "KempStoneGreenMangoPalakka ",
