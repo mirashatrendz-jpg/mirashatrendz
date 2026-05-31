@@ -37,6 +37,13 @@ const products = [
     },
     {
         id: 1,
+        name: "Antique Lakshmi Pendant InvisibleChain",
+        price: 39,
+        category: "Necklaces",
+        image: "AntiqueLakshmiPendantInvisibleChain.jpeg"
+    },
+    {
+        id: 1,
         name: "ThreeLayer Gold And Pearl Beads Necklace",
         price: 39,
         category: "Necklaces",
