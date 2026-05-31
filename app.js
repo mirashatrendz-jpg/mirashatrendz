@@ -7,6 +7,13 @@ const products = [
         category: "Necklaces",
         image: "IdolCoinMaangaNecklace.jpeg"
     },
+    {
+        id: 1,
+        name: "Ruby Stone Goddess WhiteBeads Necklace",
+        price: 49,
+        category: "Necklaces",
+        image: "RubyStoneGoddessWhiteBeadsNecklace.jpeg"
+    },
       {
         id: 1,
         name: "KempStoneGreenMangoPalakka ",
