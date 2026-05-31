@@ -42,13 +42,6 @@ const products = [
         category: "Necklaces",
         image: "LakshmiCoinKempFlowerChokerSet.jpeg"
     },
-     {
-        id: 1,
-        name: "Lakshmi Coin Kemp Flower Choker Set ",
-        price: 49,
-        category: "Necklaces",
-        image: "LakshmiCoinKempFlowerChokerSet.jpeg"
-    },
     {
         id: 1,
         name: "Antique Lakshmi Pendant InvisibleChain",
