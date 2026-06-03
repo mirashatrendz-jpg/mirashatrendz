@@ -49,6 +49,13 @@ const products = [
         category: "Necklaces",
         image: "AntiqueLakshmiPendantInvisibleChain.jpeg"
     },
+     {
+        id: 1,
+        name: "Multistone Temple Necklace Set",
+        price: 39,
+        category: "Necklaces",
+        image: "MultistoneTempleNecklaceSet.jpeg"
+    },
     {
         id: 1,
         name: "ThreeLayer Gold And Pearl Beads Necklace",
