@@ -70,6 +70,13 @@ const products = [
         category: "Necklaces",
         image: "InvisibleDaimondFlowerNecklace.jpeg"
     },
+     {
+        id: 1,
+        name: "Idol Lotus Necklace With Pearl Hanging",
+        price: 39,
+        category: "Necklaces",
+        image: "IdolLotusNecklaceWithPearlHanging.jpeg"
+    },
     {
         id: 1,
         name: "ThreeLayer Gold And Pearl Beads Necklace",
