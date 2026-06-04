@@ -56,6 +56,13 @@ const products = [
         category: "Necklaces",
         image: "MultistoneTempleNecklaceSet.jpeg"
     },
+     {
+        id: 1,
+        name: "Red Padma Lotus Choker Set",
+        price: 39,
+        category: "Necklaces",
+        image: "RedPadmaLotusChokerSet.jpeg"
+    },
     {
         id: 1,
         name: "Green Palakka Ruby Stone Necklace",
