@@ -449,6 +449,13 @@ const products = [
         category: "Anti-Tarnish",
         image: "SunburstCircleAdjustableRing.jpeg"
     },
+    {
+        id: 9,
+        name: "SpiralSwirlOpencuffBraceletwithRing",
+        price: 15,
+        category: "Anti-Tarnish",
+        image: "SpiralSwirlOpencuffBraceletwithRing.jpeg"
+    },
      {
         id: 9,
         name: "Hollow Abstract Geometric Ring",
