@@ -91,6 +91,13 @@ const products = [
         category: "Necklaces",
         image: "RubyMaangaInvisibleChain.jpeg"
     },
+       {
+        id: 1,
+        name: "Pastel Greenbeads Invisible Chain",
+        price: 29,
+        category: "Necklaces",
+        image: "PastelGreenbeadsInvisibleChain.jpeg"
+    },
      {
         id: 1,
         name: "Red Padma Lotus Choker Set",
