@@ -65,6 +65,13 @@ const products = [
     },
      {
         id: 1,
+        name: "Ruby Maanga Invisible Chain",
+        price: 39,
+        category: "Necklaces",
+        image: "RubyMaangaInvisibleChain.jpeg"
+    },
+     {
+        id: 1,
         name: "Red Padma Lotus Choker Set",
         price: 39,
         category: "Necklaces",
