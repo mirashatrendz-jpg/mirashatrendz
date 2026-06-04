@@ -63,6 +63,13 @@ const products = [
         category: "Necklaces",
         image: "GreenPalakkaRubyStoneNecklace.jpeg"
     },
+     {
+        id: 1,
+        name: "Invisible Daimond Flower Necklace",
+        price: 29,
+        category: "Necklaces",
+        image: "InvisibleDaimondFlowerNecklace.jpeg"
+    },
     {
         id: 1,
         name: "ThreeLayer Gold And Pearl Beads Necklace",
