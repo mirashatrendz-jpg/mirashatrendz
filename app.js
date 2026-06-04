@@ -91,6 +91,13 @@ const products = [
         category: "Necklaces",
         image: "RubyMaangaInvisibleChain.jpeg"
     },
+    {
+        id: 1,
+        name: "Ruby Maanga Invisible Chain",
+        price: 39,
+        category: "Necklaces",
+        image: "RubyMaangaInvisibleChain.jpeg"
+    },
        {
         id: 1,
         name: "Pastel Greenbeads Invisible Chain",
@@ -120,7 +127,7 @@ const products = [
         image: "RedPadmaLotusChokerSet.jpeg"
     },
        {
-        id: 1,
+        id: 1,RedPadmaLotusChokerSet
         name: "Multistone Floral Idol Maanga Choker",
         price: 39,
         category: "Necklaces",
