@@ -77,6 +77,13 @@ const products = [
         category: "Necklaces",
         image: "KempRadhaKrishnaNecklace.jpeg"
     },
+     {
+        id: 1,
+        name: "Non-idol Floral Coin Necklace",
+        price: 39,
+        category: "Necklaces",
+        image: "Non-idolFloralCoinNecklace.jpeg"
+    },
     {
         id: 1,
         name: "SquareCut Emeralds Lakshmi Pendant Chain",
