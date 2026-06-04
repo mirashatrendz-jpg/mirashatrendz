@@ -56,6 +56,13 @@ const products = [
         category: "Necklaces",
         image: "MultistoneTempleNecklaceSet.jpeg"
     },
+      {
+        id: 1,
+        name: "Floral Kemp Green Palakka Necklace",
+        price: 49,
+        category: "Necklaces",
+        image: "FloralKempGreenPalakkaNecklace.jpeg"
+    },
      {
         id: 1,
         name: "Multicolor Flower Choker",
