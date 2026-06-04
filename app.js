@@ -127,7 +127,7 @@ const products = [
         image: "RedPadmaLotusChokerSet.jpeg"
     },
        {
-        id: 1,RedPadmaLotusChokerSet
+        id: 1,
         name: "Multistone Floral Idol Maanga Choker",
         price: 39,
         category: "Necklaces",
