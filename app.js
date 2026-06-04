@@ -63,6 +63,13 @@ const products = [
         category: "Necklaces",
         image: "FloralKempGreenPalakkaNecklace.jpeg"
     },
+    {
+        id: 1,
+        name: "Kundan Lotus Parrot Hasli Necklace",
+        price: 39,
+        category: "Necklaces",
+        image: "KundanLotusParrotHasliNecklace.jpeg"
+    },
      {
         id: 1,
         name: "Multicolor Flower Choker",
