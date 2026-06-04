@@ -63,6 +63,13 @@ const products = [
         category: "Necklaces",
         image: "RedPadmaLotusChokerSet.jpeg"
     },
+      {
+        id: 1,
+        name: "Multicolor Floral IdolCoin Necklace",
+        price: 39,
+        category: "Necklaces",
+        image: "MulticolorFloralIdolCoinNecklace.jpeg"
+    },
     {
         id: 1,
         name: "Green Palakka Ruby Stone Necklace",
