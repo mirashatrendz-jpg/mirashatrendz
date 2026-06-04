@@ -58,6 +58,13 @@ const products = [
     },
      {
         id: 1,
+        name: "Multicolor Flower Choker",
+        price: 39,
+        category: "Necklaces",
+        image: "MulticolorFlowerChoker.jpeg"
+    },
+     {
+        id: 1,
         name: "Red Padma Lotus Choker Set",
         price: 39,
         category: "Necklaces",
