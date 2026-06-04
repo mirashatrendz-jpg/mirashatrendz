@@ -98,6 +98,13 @@ const products = [
         category: "Necklaces",
         image: "PastelGreenbeadsInvisibleChain.jpeg"
     },
+      {
+        id: 1,
+        name: "MultistoneNon-IdolNecklace",
+        price: 29,
+        category: "Necklaces",
+        image: "MultistoneNon-IdolNecklace.jpeg"
+    },
          {
         id: 1,
         name: "Premium Elephant Motif Choker Set",
