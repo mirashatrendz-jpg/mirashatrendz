@@ -77,6 +77,13 @@ const products = [
         category: "Necklaces",
         image: "IdolLotusNecklaceWithPearlHanging.jpeg"
     },
+     {
+        id: 1,
+        name: "Kemp Naga Temple Invisible Chain",
+        price: 39,
+        category: "Necklaces",
+        image: "KempNagaTempleInvisibleChain.jpeg"
+    },
     {
         id: 1,
         name: "ThreeLayer Gold And Pearl Beads Necklace",
