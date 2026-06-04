@@ -231,6 +231,13 @@ const products = [
         category: "AD Necklaces",
         image: "NAVARATNA.jpeg"
     },
+     {
+        id: 3,
+        name: "Quilted-Texture Adjustable Ring",
+        price: 15,
+        category: "AD Necklaces",
+        image: "Quilted-TextureAdjustableRing.jpeg"
+    },
     {
         id: 3,
         name: "Premium Queen AD Necklaces",
