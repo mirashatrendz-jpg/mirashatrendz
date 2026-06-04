@@ -452,7 +452,7 @@ const products = [
     {
         id: 9,
         name: "SpiralSwirlOpencuffBraceletwithRing",
-        price: 15,
+        price: 29,
         category: "Anti-Tarnish",
         image: "SpiralSwirlOpencuffBraceletwithRing.jpeg"
     },
