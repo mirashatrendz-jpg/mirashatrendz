@@ -73,7 +73,7 @@ const products = [
     {
         id: 1,
         name: "Kundan Lotus Parrot Hasli Necklace",
-        price: 39,
+        price: 59,
         category: "Necklaces",
         image: "KundanLotusParrotHasliNecklace.jpeg"
     },
