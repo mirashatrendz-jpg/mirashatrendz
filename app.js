@@ -58,6 +58,13 @@ const products = [
     },
       {
         id: 1,
+        name: "Ruby-Emerald Peacock Floral Choker Set",
+        price: 39,
+        category: "Necklaces",
+        image: "Ruby-EmeraldPeacockFloralChokerSet.jpeg"
+    },
+      {
+        id: 1,
         name: "Floral Kemp Green Palakka Necklace",
         price: 49,
         category: "Necklaces",
