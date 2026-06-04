@@ -235,7 +235,7 @@ const products = [
         id: 3,
         name: "Quilted-Texture Adjustable Ring",
         price: 15,
-        category: "AD Necklaces",
+        category: "Anti-Tarnish",
         image: "Quilted-TextureAdjustableRing.jpeg"
     },
     {
