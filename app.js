@@ -105,6 +105,13 @@ const products = [
         category: "Necklaces",
         image: "RedPadmaLotusChokerSet.jpeg"
     },
+     {
+        id: 1,
+        name: "Antique Floral Multistone Choker",
+        price: 29,
+        category: "Necklaces",
+        image: "AntiqueFloralMultistoneChoker.jpeg"
+    },
     {
         id: 1,
         name: "Enamel Blue Palakka With Ruby Stones",
