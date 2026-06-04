@@ -442,6 +442,13 @@ const products = [
         category: "Anti-Tarnish",
         image: "AdjustableDaisyFlowerHandcuff.jpeg"
     },
+     {
+        id: 9,
+        name: "Sunburst Circle Adjustable Ring",
+        price: 15,
+        category: "Anti-Tarnish",
+        image: "SunburstCircleAdjustableRing.jpeg"
+    },
     {
         id: 10,
         name: "Eternal Hollow Heart Charm and Crystal Necklace",
