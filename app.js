@@ -72,6 +72,13 @@ const products = [
     },
     {
         id: 1,
+        name: "Kemp RadhaKrishna Necklace",
+        price: 39,
+        category: "Necklaces",
+        image: "KempRadhaKrishnaNecklace.jpeg"
+    },
+    {
+        id: 1,
         name: "SquareCut Emeralds Lakshmi Pendant Chain",
         price: 39,
         category: "Necklaces",
