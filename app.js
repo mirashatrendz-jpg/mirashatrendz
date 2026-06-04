@@ -58,6 +58,13 @@ const products = [
     },
     {
         id: 1,
+        name: "Green Palakka Ruby Stone Necklace",
+        price: 49,
+        category: "Necklaces",
+        image: "GreenPalakkaRubyStoneNecklace.jpeg"
+    },
+    {
+        id: 1,
         name: "ThreeLayer Gold And Pearl Beads Necklace",
         price: 39,
         category: "Necklaces",
