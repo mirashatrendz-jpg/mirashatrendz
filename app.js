@@ -121,7 +121,7 @@ const products = [
     },
      {
         id: 1,
-        name: "Red Padma Lotus Choker Set",
+        name: "Red Padma Choker Set",
         price: 39,
         category: "Necklaces",
         image: "RedPadmaLotusChokerSet.jpeg"
@@ -469,6 +469,13 @@ const products = [
         price: 15,
         category: "Anti-Tarnish",
         image: "FloralDesignAdjustableRing.jpeg"
+    },
+       {
+        id: 9,
+        name: "Adjustable Butterfly Handcuff",
+        price: 19,
+        category: "Anti-Tarnish",
+        image: "AdjustableButterflyHandcuff.jpeg"
     },
     {
         id: 10,
