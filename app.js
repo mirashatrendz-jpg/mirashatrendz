@@ -486,6 +486,13 @@ const products = [
     },
        {
         id: 9,
+        name: "ThreeLayerChain Watch",
+        price: 29,
+        category: "Anti-Tarnish",
+        image: "ThreeLayerChain Watch.jpeg"
+    },
+       {
+        id: 9,
         name: "Heart Charms Openable Kada",
         price: 39,
         category: "Anti-Tarnish",
