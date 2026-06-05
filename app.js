@@ -561,6 +561,13 @@ const products = [
         category: "Anti-Tarnish",
         image: "GoldFloralWithCentralCrystalNecklace.jpeg"
     },
+     {
+        id: 11,
+        name: "V-Shaped Ring",
+        price: 19,
+        category: "Anti-Tarnish",
+        image: "V-ShapedRing.jpeg"
+    },
       {
         id: 11,
         name: "Solid Heart Charms Necklace",
