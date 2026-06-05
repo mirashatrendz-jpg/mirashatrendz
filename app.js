@@ -472,10 +472,10 @@ const products = [
     },
        {
         id: 9,
-        name: "Adjustable Butterfly Handcuff",
+        name: "AdjustableMultilayerHandcuff",
         price: 19,
         category: "Anti-Tarnish",
-        image: "AdjustableButterflyHandcuff.jpeg"
+        image: "AdjustableMultilayerHandcuff.jpeg"
     },
     {
         id: 10,
