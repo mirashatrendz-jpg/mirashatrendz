@@ -477,6 +477,13 @@ const products = [
         category: "Anti-Tarnish",
         image: "AdjustableMultilayerHandcuff.jpeg"
     },
+       {
+        id: 9,
+        name: "Steel Daimond Bracelet Watch",
+        price: 29,
+        category: "Anti-Tarnish",
+        image: "SteelDaimondBraceletWatch.jpeg"
+    },
         {
         id: 9,
         name: "Adjustable Leaf Handcuff",
