@@ -512,6 +512,13 @@ const products = [
         category: "Anti-Tarnish",
         image: "SpiralOpenHandcuff.jpeg"
     },
+      {
+        id: 9,
+        name: "Grecian Pattern Bangle Watch",
+        price: 29,
+        category: "Anti-Tarnish",
+        image: "GrecianPatternBangleWatch.jpeg"
+    },
     {
         id: 10,
         name: "Eternal Hollow Heart Charm and Crystal Necklace",
