@@ -514,6 +514,13 @@ const products = [
     },
      {
         id: 9,
+        name: "Hallow Abstract Knot Design Ring",
+        price: 15,
+        category: "Anti-Tarnish",
+        image: "HallowAbstractKnotDesignRing.jpeg"
+    },
+     {
+        id: 9,
         name: "Bow Knot Pendant Chain",
         price: 9,
         category: "Anti-Tarnish",
