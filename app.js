@@ -423,8 +423,8 @@ const products = [
     },
     {
         id: 9,
-        name: "Adjustable Multilayer Wires Wrap Handcuff",
-        price: 19,
+        name: "Adjustable Multilayer stoned Handcuff",
+        price: 29,
         category: "Anti-Tarnish",
         image: "AdjustableMultilayerWiresWrapHandcuff.jpeg"
     },
@@ -476,6 +476,13 @@ const products = [
         price: 19,
         category: "Anti-Tarnish",
         image: "AdjustableMultilayerHandcuff.jpeg"
+    },
+       {
+        id: 9,
+        name: "Heart Charms Openable Kada",
+        price: 39,
+        category: "Anti-Tarnish",
+        image: "HeartCharmsOpenable.jpeg"
     },
       {
         id: 9,
