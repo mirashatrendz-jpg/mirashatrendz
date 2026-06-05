@@ -477,6 +477,13 @@ const products = [
         category: "Anti-Tarnish",
         image: "AdjustableMultilayerHandcuff.jpeg"
     },
+      {
+        id: 9,
+        name: "Spiral Open Handcuff",
+        price: 29,
+        category: "Anti-Tarnish",
+        image: "SpiralOpenHandcuff.jpeg"
+    },
     {
         id: 10,
         name: "Eternal Hollow Heart Charm and Crystal Necklace",
