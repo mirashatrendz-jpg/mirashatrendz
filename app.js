@@ -507,6 +507,13 @@ const products = [
     },
      {
         id: 9,
+        name: "Hallow Abstract Geometric Ring",
+        price: 15,
+        category: "Anti-Tarnish",
+        image: "HallowAbstractRing.jpeg"
+    },
+     {
+        id: 9,
         name: "Bow Knot Pendant Chain",
         price: 9,
         category: "Anti-Tarnish",
