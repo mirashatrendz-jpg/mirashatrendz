@@ -477,6 +477,13 @@ const products = [
         category: "Anti-Tarnish",
         image: "AdjustableMultilayerHandcuff.jpeg"
     },
+        {
+        id: 9,
+        name: "Adjustable Leaf Handcuff",
+        price: 29,
+        category: "Anti-Tarnish",
+        image: "AdjustableLeafHandcuff.jpeg"
+    },
        {
         id: 9,
         name: "Heart Charms Openable Kada",
