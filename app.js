@@ -505,6 +505,13 @@ const products = [
         category: "Anti-Tarnish",
         image: "HeartCharmsOpenable.jpeg"
     },
+     {
+        id: 9,
+        name: "Bow Knot Pendant Chain",
+        price: 9,
+        category: "Anti-Tarnish",
+        image: "BowKnotPendantChain.jpeg"
+    },
         {
         id: 9,
         name: "ElegantBraceletWatch",
