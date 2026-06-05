@@ -505,6 +505,13 @@ const products = [
         category: "Anti-Tarnish",
         image: "HeartCharmsOpenable.jpeg"
     },
+        {
+        id: 9,
+        name: "ElegantBraceletWatch",
+        price: 29,
+        category: "Anti-Tarnish",
+        image: "ElegantBraceletWatch.jpeg"
+    },
       {
         id: 9,
         name: "Spiral Open Handcuff",
