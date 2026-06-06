@@ -261,10 +261,10 @@ const products = [
     },
      {
         id: 4,
-        name: "Dancing Girl EarCuff",
+        name: "Daily Wear Stud",
         price: 19,
         category: "Earrings",
-        image: "DancingGirlEarCuff.jpeg"
+        image: "DailyWearStud.jpeg"
     },
     {
         id: 6,
