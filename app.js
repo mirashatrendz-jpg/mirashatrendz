@@ -275,6 +275,13 @@ const products = [
     },
     {
         id: 7,
+        name: "One Muzham Jasmine Strings",
+        price: 62,
+        category: "Jasmine Strings",
+        image: "OneMuzhamJasmineStrings.jpeg"
+    },
+      {
+        id: 7,
         name: "Vintage Jasmine String",
         price: 195,
         category: "Jasmine Strings",
