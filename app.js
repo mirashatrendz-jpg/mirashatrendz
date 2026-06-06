@@ -254,10 +254,10 @@ const products = [
     },
     {
         id: 4,
-        name: "Minimalist Pendant Earrings",
-        price: 180,
+        name: "Dancing Girl EarCuff",
+        price: 19,
         category: "Earrings",
-        image: "Chain-2.jpg"
+        image: "DancingGirlEarCuff.jpeg"
     },
     {
         id: 6,
