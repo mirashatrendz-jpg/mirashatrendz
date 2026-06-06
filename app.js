@@ -259,6 +259,13 @@ const products = [
         category: "Earrings",
         image: "DancingGirlEarCuff.jpeg"
     },
+     {
+        id: 4,
+        name: "Dancing Girl EarCuff",
+        price: 19,
+        category: "Earrings",
+        image: "DancingGirlEarCuff.jpeg"
+    },
     {
         id: 6,
         name: "Adjustable Chain with Waterdrop Pendant",
