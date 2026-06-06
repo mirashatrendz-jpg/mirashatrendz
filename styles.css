@@ -189,7 +189,7 @@ img {
    ========================================================================== */
 .hero {
     height: 100vh;
-    background: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.8)), url('MainCoverPhoto.jpeg') center/cover no-repeat;
+    background: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.8)), url('website covr.jpeg') center/cover no-repeat;
     display: flex;
     align-items: center;
     justify-content: center;
