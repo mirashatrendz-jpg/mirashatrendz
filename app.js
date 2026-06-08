@@ -212,6 +212,34 @@ const products = [
     },
     {
         id: 2,
+        name: "Antique Jadau Coin Haaram",
+        price: 69,
+        category: "Haarams",
+        image: "AntiqueJadauCoinHaaram69.jpeg"
+    },
+     {
+        id: 2,
+        name: "Classic Diamond Haaram",
+        price: 220,
+        category: "Haarams",
+        image: "Ring-2.jpg"
+    },
+     {
+        id: 2,
+        name: "Classic Diamond Haaram",
+        price: 220,
+        category: "Haarams",
+        image: "Ring-2.jpg"
+    },
+     {
+        id: 2,
+        name: "Classic Diamond Haaram",
+        price: 220,
+        category: "Haarams",
+        image: "Ring-2.jpg"
+    },
+     {
+        id: 2,
         name: "Classic Diamond Haaram",
         price: 220,
         category: "Haarams",
