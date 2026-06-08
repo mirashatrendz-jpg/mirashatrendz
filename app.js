@@ -266,6 +266,13 @@ const products = [
         category: "Earrings",
         image: "DailyWearStud2.jpeg"
     },
+         {
+        id: 4,
+        name: "Daily Wear Stud",
+        price: 19,
+        category: "Earrings",
+        image: "DailyWearStud3.jpeg"
+    },
     {
         id: 6,
         name: "Adjustable Chain with Waterdrop Pendant",
