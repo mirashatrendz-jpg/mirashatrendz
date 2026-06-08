@@ -245,7 +245,7 @@ const products = [
         category: "AD Necklaces",
         image: "RubyAndDaimondLeafInvisibleAD.jpeg"
     },
-    {
+     {
         id: 4,
         name: "Dancing Girl EarCuff",
         price: 19,
