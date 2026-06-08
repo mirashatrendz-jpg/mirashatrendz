@@ -294,77 +294,77 @@ const products = [
         category: "Earrings",
         image: "DailyWearStud7.jpeg"
     },
-        {
+     {
         id: 4,
         name: "Daily Wear Stud",
         price: 19,
         category: "Earrings",
         image: "DailyWearStud2.jpeg"
     },
-         {
+     {
         id: 4,
         name: "Daily Wear Stud",
         price: 19,
         category: "Earrings",
         image: "DailyWearStud6.jpeg"
     },
-           {
+     {
         id: 4,
         name: "Daily Wear Stud",
         price: 19,
         category: "Earrings",
         image: "DailyWearStud5.jpeg"
     },
-           {
+     {
         id: 4,
         name: "Daily Wear Stud",
         price: 19,
         category: "Earrings",
         image: "DailyWearStud4.jpeg"
     },
-         {
+     {
         id: 4,
         name: "Daily Wear Stud",
         price: 19,
         category: "Earrings",
         image: "DailyWearStud3.jpeg"
     },
-    {
+     {
         id: 6,
         name: "Adjustable Chain with Waterdrop Pendant",
         price: 19,
         category: "Anti-Tarnish",
         image: "AdjustableChainwithWaterdropPendant.jpeg"
     },
-    {
+     {
         id: 6,
         name: "Snake Chain with Black Stone Pendant",
         price: 19,
         category: "Anti-Tarnish",
         image: "AdjustableSnakeChainwithBlackStonePendant.jpeg"
     },
-    {
+     {
         id: 7,
         name: "One Muzham Jasmine Strings",
         price: 62,
         category: "Jasmine Strings",
         image: "OneMuzhamJasmineStrings.jpeg"
     },
-      {
+     {
         id: 7,
         name: "Two Muzham Jasmine Strings",
         price: 124,
         category: "Jasmine Strings",
         image: "TwoMuzhamJasmineStrings.jpeg"
     },
-    {
+     {
         id: 8,
         name: "KAMADHENU NECKLACE Necklace",
         price: 39,
         category: "Necklaces",
         image: "KAMADHENUNECKLACE.jpeg"
     },
-    {
+     {
         id: 9,
         name: "Mayura Non-Idol Bangles",
         price: 29,
