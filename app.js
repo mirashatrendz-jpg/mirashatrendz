@@ -91,14 +91,7 @@ const products = [
         category: "Necklaces",
         image: "RubyMaangaInvisibleChain.jpeg"
     },
-    {
-        id: 1,
-        name: "Ruby Maanga Invisible Chain",
-        price: 39,
-        category: "Necklaces",
-        image: "RubyMaangaInvisibleChain.jpeg"
-    },
-       {
+     {
         id: 1,
         name: "Pastel Greenbeads Invisible Chain",
         price: 29,
@@ -275,7 +268,7 @@ const products = [
     },
     {
         id: 6,
-        name: "Adjustable Snake Chain with Black Stone Pendant",
+        name: "Snake Chain with Black Stone Pendant",
         price: 19,
         category: "Anti-Tarnish",
         image: "AdjustableSnakeChainwithBlackStonePendant.jpeg"
@@ -640,7 +633,7 @@ const products = [
     },
      {
         id: 11,
-        name: "Openable Pink Enamel Butterfly Pendant Necklace",
+        name: "Pink Enamel Butterfly Pendant Necklace",
         price: 19,
         category: "Anti-Tarnish",
         image: "OpenablePinkEnamelButterflyPendantNecklace.jpeg"
