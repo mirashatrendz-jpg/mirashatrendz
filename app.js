@@ -413,35 +413,35 @@ const products = [
         category: "Bangles",
         image: "MatteElephantMotifs.JPG.jpeg"
     },
-    {
+     {
         id: 9,
         name: "Openable Premium Camel Motif Kadas",
         price: 79,
         category: "Bangles",
         image: "OpenablePremiumCamelMotifKadas.JPG.jpeg"
     },
-    {
+     {
         id: 9,
         name: "Openable Premium Ganesha Elephant Kadas",
         price: 59,
         category: "Bangles",
         image: "OpenablePremiumGaneshaElephantKadas.JPG.jpeg"
     },
-    {
+     {
         id: 9,
         name: "RAMPARIVAR Openable Premium Kadas",
         price: 79,
         category: "Bangles",
         image: "RAMPARIVAROpenablePremiumKadas.JPG.jpeg"
     },
-    {
+     {
         id: 9,
         name: "Non-Idol Multistone Matte Bangles",
         price: 39,
         category: "Bangles",
         image: "Non-IdolMultistoneMatteBangles.JPG.jpeg"
     },
-    {
+     {
         id: 9,
         name: "Multistone Beautiful Goddess Bangles",
         price: 39,
@@ -490,7 +490,7 @@ const products = [
         category: "Necklaces",
         image: "DoubleLayerKempMultistoneNecklace.jpeg"
     },
-    {
+     {
      
         id: 9,
         name: "Adjustable Butterfly Design Handcuff",
@@ -498,21 +498,21 @@ const products = [
         category: "Anti-Tarnish",
         image: "AdjustableButterflyDesignHandcuff.jpeg"
     },
-    {
+     {
         id: 9,
         name: "Adjustable Multilayer stoned Handcuff",
         price: 29,
         category: "Anti-Tarnish",
         image: "AdjustableMultilayerWiresWrapHandcuff.jpeg"
     },
-    {
+     {
         id: 9,
         name: "Adjustable Gold Floral Design Handcuff",
         price: 19,
         category: "Anti-Tarnish",
         image: "AdjustableGoldFloralDesignHandcuff.jpeg"
     },
-    {
+     {
         id: 9,
         name: "Adjustable Daisy Flower Handcuff",
         price: 19,
@@ -526,7 +526,7 @@ const products = [
         category: "Anti-Tarnish",
         image: "SunburstCircleAdjustableRing.jpeg"
     },
-    {
+     {
         id: 9,
         name: "SpiralSwirlOpencuffBraceletwithRing",
         price: 29,
@@ -540,42 +540,42 @@ const products = [
         category: "Anti-Tarnish",
         image: "HollowAbstractGeometricRing.jpeg"
     },
-       {
+     {
         id: 9,
         name: "Floral Design Adjustable Ring",
         price: 15,
         category: "Anti-Tarnish",
         image: "FloralDesignAdjustableRing.jpeg"
     },
-       {
+     {
         id: 9,
         name: "AdjustableMultilayerHandcuff",
         price: 19,
         category: "Anti-Tarnish",
         image: "AdjustableMultilayerHandcuff.jpeg"
     },
-       {
+     {
         id: 9,
         name: "Steel Daimond Bracelet Watch",
         price: 29,
         category: "Anti-Tarnish",
         image: "SteelDaimondBraceletWatch.jpeg"
     },
-        {
+     {
         id: 9,
         name: "Adjustable Leaf Handcuff",
         price: 29,
         category: "Anti-Tarnish",
         image: "AdjustableLeafHandcuff.jpeg"
     },
-       {
+     {
         id: 9,
         name: "ThreeLayerChain Watch",
         price: 29,
         category: "Anti-Tarnish",
         image: "ThreeLayerChain Watch.jpeg"
     },
-       {
+     {
         id: 9,
         name: "Heart Charms Openable Kada",
         price: 39,
@@ -603,14 +603,14 @@ const products = [
         category: "Anti-Tarnish",
         image: "BowKnotPendantChain.jpeg"
     },
-        {
+     {
         id: 9,
         name: "ElegantBraceletWatch",
         price: 29,
         category: "Anti-Tarnish",
         image: "ElegantBraceletWatch.jpeg"
     },
-      {
+     {
         id: 9,
         name: "Spiral Open Handcuff",
         price: 29,
@@ -624,14 +624,14 @@ const products = [
         category: "Anti-Tarnish",
         image: "GrecianPatternBangleWatch.jpeg"
     },
-    {
+     {
         id: 10,
         name: "Eternal Hollow Heart Charm and Crystal Necklace",
         price: 19,
         category: "Anti-Tarnish",
         image: "EternalHollowHeartCharmandCrystalNecklace.jpeg"
     },
-    {
+     {
         id: 11,
         name: "Gold Floral With Central Crystal Necklace",
         price: 19,
@@ -645,49 +645,49 @@ const products = [
         category: "Anti-Tarnish",
         image: "V-ShapedRing.jpeg"
     },
-      {
+     {
         id: 11,
         name: "Solid Heart Charms Necklace",
         price: 19,
         category: "Anti-Tarnish",
         image: "SolidHeartCharmsNecklace.jpeg"
     },
-       {
+     {
         id: 11,
         name: "Enamel details Cat and Flower Pendant Necklace",
         price: 19,
         category: "Anti-Tarnish",
         image: "EnameldetailsCatandFlowerPendantNecklace.jpeg"
     },
-      {
+     {
         id: 11,
         name: "FloralCharmsandColourfulStonesNecklace",
         price: 19,
         category: "Anti-Tarnish",
         image: "FloralCharmsandColourfulStonesNecklace.jpeg"
     },
-    {
+     {
         id: 11,
         name: "Solid Butterfly Charms with Colorful Stones Necklace",
         price: 19,
         category: "Anti-Tarnish",
         image: "SolidButterflyCharmswithColorfulStonesNecklace.jpeg"
     },
-      {
+     {
         id: 11,
         name: "Openable Floral Pendant Necklace",
         price: 19,
         category: "Anti-Tarnish",
         image: "OpenableFloralPendantNecklace.jpeg"
     },
-    {
+     {
         id: 11,
         name: "Cherry Charm Pendant Necklace",
         price: 19,
         category: "Anti-Tarnish",
         image: "CherryCharmPendantNecklace.jpeg"
     },
-      {
+     {
         id: 11,
         name: "Double Layer Necklace With Heart and Bow",
         price: 19,
