@@ -271,6 +271,13 @@ const products = [
         name: "Daily Wear Stud",
         price: 19,
         category: "Earrings",
+        image: "DailyWearStud5.jpeg"
+    },
+           {
+        id: 4,
+        name: "Daily Wear Stud",
+        price: 19,
+        category: "Earrings",
         image: "DailyWearStud4.jpeg"
     },
          {
