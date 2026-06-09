@@ -225,27 +225,6 @@ const products = [
         image: "TempleHeavyBridalSet.jpeg"
     },
      {
-        id: 2,
-        name: "Classic Diamond Haaram",
-        price: 220,
-        category: "Haarams",
-        image: "Ring-2.jpg"
-    },
-     {
-        id: 2,
-        name: "Classic Diamond Haaram",
-        price: 220,
-        category: "Haarams",
-        image: "Ring-2.jpg"
-    },
-     {
-        id: 2,
-        name: "Classic Diamond Haaram",
-        price: 220,
-        category: "Haarams",
-        image: "Ring-2.jpg"
-    },
-    {
         id: 3,
         name: "Navaratna Necklace",
         price: 69,
@@ -259,7 +238,7 @@ const products = [
         category: "Anti-Tarnish",
         image: "Quilted-TextureAdjustableRing.jpeg"
     },
-    {
+     {
         id: 3,
         name: "Premium Queen AD Necklaces",
         price: 99,
@@ -274,6 +253,27 @@ const products = [
         image: "RubyAndDaimondLeafInvisibleAD.jpeg"
     },
      {
+        id: 4,
+        name: "Dancing Girl EarCuff",
+        price: 19,
+        category: "Earrings",
+        image: "DancingGirlEarCuff.jpeg"
+    },
+      {
+        id: 4,
+        name: "JadauKundanHalfMoonBugadi.jpeg",
+        price: 29,
+        category: "Earrings",
+        image: "JadauKundanHalfMoonBugadi.jpeg"
+    },
+      {
+        id: 4,
+        name: "Dancing Girl EarCuff",
+        price: 19,
+        category: "Earrings",
+        image: "DancingGirlEarCuff.jpeg"
+    },
+      {
         id: 4,
         name: "Dancing Girl EarCuff",
         price: 19,
