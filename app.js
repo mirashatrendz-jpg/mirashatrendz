@@ -219,10 +219,10 @@ const products = [
     },
      {
         id: 2,
-        name: "Classic Diamond Haaram",
-        price: 220,
+        name: "Temple Heavy Bridal Set",
+        price: 119,
         category: "Haarams",
-        image: "Ring-2.jpg"
+        image: "TempleHeavyBridalSet.jpeg"
     },
      {
         id: 2,
