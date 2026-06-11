@@ -182,7 +182,7 @@ const products = [
         category: "Necklaces",
         image: "ThreeLayerGoldAndPearlBeadsNecklace.jpeg"
     },
-    {
+     {
         id: 1,
         name: "Kemp RadhaKrishna Necklace",
         price: 39,
