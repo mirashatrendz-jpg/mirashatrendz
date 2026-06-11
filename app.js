@@ -63,14 +63,14 @@ const products = [
         category: "Necklaces",
         image: "Ruby-EmeraldPeacockFloralChokerSet.jpeg"
     },
-      {
+     {
         id: 1,
         name: "Floral Kemp Green Palakka Necklace",
         price: 49,
         category: "Necklaces",
         image: "FloralKempGreenPalakkaNecklace.jpeg"
     },
-    {
+     {
         id: 1,
         name: "Kundan Lotus Parrot Hasli Necklace",
         price: 59,
