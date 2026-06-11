@@ -203,7 +203,7 @@ const products = [
         category: "Necklaces",
         image: "Non-idolFloralCoinNecklace.jpeg"
     },
-    {
+     {
         id: 1,
         name: "SquareCut Emeralds Lakshmi Pendant Chain",
         price: 39,
