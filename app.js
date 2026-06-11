@@ -224,6 +224,13 @@ const products = [
         category: "Haarams",
         image: "TempleHeavyBridalSet.jpeg"
     },
+      {
+        id: 2,
+        name: "Goddess Heavy Haaram",
+        price: 119,
+        category: "Haarams",
+        image: "GoddessHeavyHaaram.jpeg"
+    },
      {
         id: 3,
         name: "Navaratna Necklace",
