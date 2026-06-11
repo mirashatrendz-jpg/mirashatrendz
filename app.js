@@ -191,6 +191,13 @@ const products = [
     },
      {
         id: 1,
+        name: "Green Lotus Choker Necklace",
+        price: 49,
+        category: "Necklaces",
+        image: "GreenLotusChokerNecklace.jpeg"
+    },
+     {
+        id: 1,
         name: "Non-idol Floral Coin Necklace",
         price: 39,
         category: "Necklaces",
