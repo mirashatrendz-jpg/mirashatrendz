@@ -218,6 +218,13 @@ const products = [
         image: "AntiqueJadauCoinHaaram69.jpeg"
     },
      {
+        id: 2,
+        name: "Temple Heavy Bridal Set",
+        price: 119,
+        category: "Haarams",
+        image: "TempleHeavyBridalSet.JPEG"
+    },
+     {
         id: 3,
         name: "Navaratna Necklace",
         price: 69,
