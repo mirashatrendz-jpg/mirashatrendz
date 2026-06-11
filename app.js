@@ -236,7 +236,7 @@ const products = [
         name: "Navaratna Necklace",
         price: 69,
         category: "AD Necklaces",
-        image: "NAVARATNA.jpeg"
+        image: "NavaratnaNecklace.jpeg"
     },
      {
         id: 3,
