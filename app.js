@@ -203,26 +203,19 @@ const products = [
         category: "Necklaces",
         image: "SquareCutEmeraldsLakshmiPendantChain.jpeg"
     },
-      {
+     {
         id: 1,
         name: "Layerd Pearl Chain with Pendant ",
         price: 29,
         category: "Necklaces",
         image: "LAYEREDPEARLCHAINWITHPENDANT.jpeg"
     },
-    {
+     {
         id: 2,
         name: "Antique Jadau Coin Haaram",
         price: 69,
         category: "Haarams",
         image: "AntiqueJadauCoinHaaram69.jpeg"
-    },
-     {
-        id: 2,
-        name: "Temple Heavy BridalSet",
-        price: 119,
-        category: "Haarams",
-        image: "TempleHeavyBridalSet.JPEG"
     },
      {
         id: 3,
