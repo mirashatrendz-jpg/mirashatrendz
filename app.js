@@ -152,7 +152,7 @@ const products = [
         name: "Green Palakka Ruby Stone Necklace",
         price: 49,
         category: "Necklaces",
-        image: "GreenPalakkaRubyStoneNecklace.jpeg"
+        image: "Green Palakka Ruby Stone Necklace.jpeg"
     },
      {
         id: 1,
