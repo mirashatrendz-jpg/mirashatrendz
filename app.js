@@ -175,7 +175,7 @@ const products = [
         category: "Necklaces",
         image: "KempNagaTempleInvisibleChain.jpeg"
     },
-    {
+     {
         id: 1,
         name: "ThreeLayer Gold And Pearl Beads Necklace",
         price: 39,
