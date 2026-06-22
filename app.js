@@ -170,6 +170,20 @@ const products = [
     },
      {
         id: 1,
+        name: "Long Hanging Ruby Lotus Necklace",
+        price: 39,
+        category: "Necklaces",
+        image: "LongHangingRubyLotusNecklace.jpeg"
+    },
+     {
+        id: 1,
+        name: "Idol Lotus Necklace With Pearl Hanging",
+        price: 39,
+        category: "Necklaces",
+        image: "IdolLotusNecklaceWithPearlHanging.jpeg"
+    },
+     {
+        id: 1,
         name: "Kemp Naga Temple Invisible Chain",
         price: 39,
         category: "Necklaces",
