@@ -175,6 +175,13 @@ const products = [
         category: "Necklaces",
         image: "MultistoneGoddessPearlHanging.jpeg"
     },
+      {
+        id: 1,
+        name: "Multistone Non-idol Floral Necklace",
+        price: 35,
+        category: "Necklaces",
+        image: "MultistoneNon-idolFloralNecklace.jpeg"
+    },
      {
         id: 1,
         name: "Kemp Multistone Goddess Maanga Necklace",
