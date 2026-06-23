@@ -180,7 +180,7 @@ const products = [
         name: "Kemp Multistone Goddess Maanga Necklace",
         price: 59,
         category: "Necklaces",
-        image: "KempMultistoneGoddessMaangaNecklace.jpeg"
+        image: "KempMultistoneGoddessMaangaNecklace.JPEG"
     },
      {
         id: 1,
