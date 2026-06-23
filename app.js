@@ -175,6 +175,13 @@ const products = [
         category: "Necklaces",
         image: "MultistoneGoddessPearlHanging.jpeg"
     },
+      {
+        id: 1,
+        name: "Traditional kasu Necklace Set",
+        price: 49,
+        category: "Necklaces",
+        image: "TraditionalkasuNecklaceSet.jpeg"
+    },
      {
         id: 1,
         name: "Elephant Goddess Necklace With Pastel GreenHanging",
