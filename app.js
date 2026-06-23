@@ -175,6 +175,13 @@ const products = [
         category: "Necklaces",
         image: "MultistoneGoddessPearlHanging.jpeg"
     },
+     {
+        id: 1,
+        name: "Goddess Lakshmi Necklace",
+        price: 59,
+        category: "Necklaces",
+        image: "GoddessLakshmiNecklace.jpeg"
+    },
       {
         id: 1,
         name: "Traditional kasu Necklace Set",
