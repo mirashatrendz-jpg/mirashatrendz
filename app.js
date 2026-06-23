@@ -177,6 +177,13 @@ const products = [
     },
      {
         id: 1,
+        name: "Kemp Multistone Goddess Maanga Necklace",
+        price: 59,
+        category: "Necklaces",
+        image: "KempMultistoneGoddessMaangaNecklace.jpeg"
+    },
+     {
+        id: 1,
         name: "Goddess Lakshmi Necklace",
         price: 59,
         category: "Necklaces",
