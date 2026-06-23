@@ -170,6 +170,13 @@ const products = [
     },
      {
         id: 1,
+        name: "Multistone Goddess Pearl Hanging",
+        price: 59,
+        category: "Necklaces",
+        image: "MultistoneGoddessPearlHanging.jpeg"
+    },
+     {
+        id: 1,
         name: "Elephant Goddess Necklace With Pastel GreenHanging",
         price: 49,
         category: "Necklaces",
