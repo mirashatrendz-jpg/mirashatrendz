@@ -266,6 +266,13 @@ const products = [
         category: "Necklaces",
         image: "Non-idolFloralCoinNecklace.jpeg"
     },
+    {
+        id: 1,
+        name: "Ruby And Emerald Floral Choker Set",
+        price: 29,
+        category: "Necklaces",
+        image: "RubyAndEmeraldFloralChokerSet.jpeg"
+    },
      {
         id: 1,
         name: "Shanku Chakra Namam Necklace Set",
