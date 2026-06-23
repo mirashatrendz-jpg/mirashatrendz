@@ -182,6 +182,13 @@ const products = [
         category: "Necklaces",
         image: "LakshmiPendantRubyPalakkaNecklace.jpeg"
     },
+      {
+        id: 1,
+        name: "Invisible Chain with White Stone Heart Drops",
+        price: 9,
+        category: "Necklaces",
+        image: "InvisibleChainwithWhiteStoneHeartDrops.jpeg"
+    },
      {
         id: 1,
         name: "Multistone Non-Idol Floral Necklace",
