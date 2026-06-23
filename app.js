@@ -252,6 +252,13 @@ const products = [
         category: "Necklaces",
         image: "GreenLotusChokerNecklace.jpeg"
     },
+    {
+        id: 1,
+        name: "Temple Coin Emerald Choker Set",
+        price: 49,
+        category: "Necklaces",
+        image: "TempleCoinEmeraldChokerSet.jpeg"
+    },
      {
         id: 1,
         name: "Non-idol Floral Coin Necklace",
