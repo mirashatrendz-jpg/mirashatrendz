@@ -182,6 +182,13 @@ const products = [
         category: "Necklaces",
         image: "ElephantGoddessNecklaceWithPastelGreenHanging.jpeg"
     },
+       {
+        id: 1,
+        name: "Kemp Stone Set With Ghungroo",
+        price: 49,
+        category: "Necklaces",
+        image: "KempStoneSetwithGhungroo.jpeg"
+    },
      {
         id: 1,
         name: "Long Hanging Ruby Lotus Necklace",
