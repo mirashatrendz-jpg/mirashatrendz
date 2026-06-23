@@ -170,6 +170,13 @@ const products = [
     },
      {
         id: 1,
+        name: "Elephant Goddess Necklace With Pastel GreenHanging",
+        price: 49,
+        category: "Necklaces",
+        image: "ElephantGoddessNecklaceWithPastelGreenHanging.jpeg"
+    },
+     {
+        id: 1,
         name: "Long Hanging Ruby Lotus Necklace",
         price: 39,
         category: "Necklaces",
