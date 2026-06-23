@@ -191,6 +191,13 @@ const products = [
     },
      {
         id: 1,
+        name: "Temple Coin Ruby Choker Necklace",
+        price: 49,
+        category: "Necklaces",
+        image: "TempleCoinRubyChokerNecklace.jpeg"
+    },
+     {
+        id: 1,
         name: "Elephant Goddess Necklace With Pastel GreenHanging",
         price: 49,
         category: "Necklaces",
