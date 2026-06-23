@@ -177,7 +177,7 @@ const products = [
     },
       {
         id: 1,
-        name: "Multistone Non-idol Floral Necklace",
+        name: "Multistone Non-Idol Floral Necklace",
         price: 35,
         category: "Necklaces",
         image: "MultistoneNon-idolFloralNecklace.jpeg"
