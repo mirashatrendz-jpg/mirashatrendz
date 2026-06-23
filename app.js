@@ -175,7 +175,14 @@ const products = [
         category: "Necklaces",
         image: "MultistoneGoddessPearlHanging.jpeg"
     },
-      {
+     {
+        id: 1,
+        name: "Lakshmi Pendant Ruby Palakka Necklace",
+        price: 69,
+        category: "Necklaces",
+        image: "LakshmiPendantRubyPalakkaNecklace.jpeg"
+    },
+     {
         id: 1,
         name: "Multistone Non-Idol Floral Necklace",
         price: 35,
