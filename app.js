@@ -682,6 +682,13 @@ const products = [
     },
      {
         id: 9,
+        name: "Purple Zaara Bangles",
+        price: 29,
+        category: "Bangles",
+        image: "PurpleZaaraBangles.jpeg"
+    },
+     {
+        id: 9,
         name: "Maroon Zaara Bangles",
         price: 29,
         category: "Bangles",
