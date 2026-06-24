@@ -465,6 +465,13 @@ const products = [
     },
      {
         id: 3,
+        name: "Ruby Blossom Necklace Set",
+        price: 59,
+        category: "AD Necklaces",
+        image: "RubyBlossomNecklaceSet.jpeg"
+    },
+     {
+        id: 3,
         name: "Quilted-Texture Adjustable Ring",
         price: 15,
         category: "Anti-Tarnish",
