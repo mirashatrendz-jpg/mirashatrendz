@@ -490,6 +490,13 @@ const products = [
         category: "AD Necklaces",
         image: "MultistoneFloralDoubleLayerNecklace.jpeg"
     },
+      {
+        id: 3,
+        name: "Geometric Pattern Diamond Necklace Set",
+        price: 49,
+        category: "AD Necklaces",
+        image: "GeometricPatternDiamondNecklaceSet.jpeg"
+    },
      {
         id: 3,
         name: "Crystal Heart Charm Necklace Set",
