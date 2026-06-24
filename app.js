@@ -191,6 +191,13 @@ const products = [
     },
      {
         id: 1,
+        name: "Mangalsutra",
+        price: 29,
+        category: "Necklaces",
+        image: "Mangalsutra.jpeg"
+    },
+     {
+        id: 1,
         name: "Invisible Chain with White Stone Heart Drops",
         price: 9,
         category: "Necklaces",
