@@ -533,6 +533,13 @@ const products = [
         category: "AD Necklaces",
         image: "IdolPendantEmeraldStonePremiumNecklace.jpeg"
     },
+      {
+        id: 3,
+        name: "Diamond Dew Necklace",
+        price: 39,
+        category: "AD Necklaces",
+        image: "DiamondDewNecklace.jpeg"
+    },
      {
         id: 3,
         name: "Ruby And Daimond Leaf Invisible AD",
