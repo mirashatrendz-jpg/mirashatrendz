@@ -689,6 +689,13 @@ const products = [
     },
      {
         id: 9,
+        name: "Bright Orange Rose Bangles",
+        price: 29,
+        category: "Bangles",
+        image: "BrightOrangeRoseBangles.jpeg"
+    },
+     {
+        id: 9,
         name: "Maroon Zaara Bangles",
         price: 29,
         category: "Bangles",
