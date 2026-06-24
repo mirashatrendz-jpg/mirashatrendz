@@ -409,6 +409,13 @@ const products = [
     },
      {
         id: 1,
+        name: "Ahaana Inspired Peacock Necklace",
+        price: 49,
+        category: "Necklaces",
+        image: "AhaanaInspiredPeacockNecklace.jpeg"
+    },
+     {
+        id: 1,
         name: "SquareCut Emeralds Lakshmi Pendant Chain",
         price: 39,
         category: "Necklaces",
