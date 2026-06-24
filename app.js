@@ -224,6 +224,13 @@ const products = [
         category: "Necklaces",
         image: "Multicolour floral drops Mangalsutra.jpeg"
     },
+     {
+        id: 1,
+        name: "Antique Kemp Lakshmi Necklace",
+        price: 39,
+        category: "Necklaces",
+        image: "AntiqueKempLakshmiNecklace.jpeg"
+    },
       {
         id: 1,
         name: "Mangalsutra",
