@@ -182,6 +182,13 @@ const products = [
         category: "Necklaces",
         image: "PremiumLakshmiPendantCoralandGreenBeadsNecklace.jpeg"
     },
+      {
+        id: 1,
+        name: "Temple Hasli Necklace Set",
+        price: 59,
+        category: "Necklaces",
+        image: "TempleHasliNecklaceSet.jpeg"
+    },
      {
         id: 1,
         name: "Lakshmi Pendant Ruby Palakka Necklace",
