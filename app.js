@@ -336,7 +336,7 @@ const products = [
         price: 49,
         category: "Necklaces",
         image: "KempStoneSetwithGhungroo.jpeg"
-    },
+    }
      {
         id: 1,
         name: "Long Hanging Ruby Lotus Necklace",
@@ -448,6 +448,20 @@ const products = [
         price: 119,
         category: "Haarams",
         image: "TempleHeavyBridalSet.jpeg"
+    },
+      {
+        id: 2,
+        name: "IdolCoinTempleHaaram",
+        price: 49,
+        category: "Haarams",
+        image: "IdolCoinTempleHaaram.jpeg"
+    },
+    {
+        id: 2,
+        name: "Idol Coin Bridal Set",
+        price: 79,
+        category: "Haarams",
+        image: "IdolCoinBridalSet.jpeg"
     },
      {
         id: 2,
