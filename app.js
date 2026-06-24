@@ -659,19 +659,26 @@ const products = [
         category: "Bangles",
         image: "GreenRaindropBangles.jpeg"
     },
-       {
+     {
         id: 9,
         name: "Black Zaara Bangles",
         price: 29,
         category: "Bangles",
         image: "BlackZaaraBangles.jpeg"
     },
-       {
+     {
         id: 9,
         name: "HotPink Zaara Bangles",
         price: 29,
         category: "Bangles",
         image: "HotPinkZaaraBangles.jpeg"
+    },
+     {
+        id: 9,
+        name: "Green Zaara Bangles",
+        price: 29,
+        category: "Bangles",
+        image: "GreenZaaraBangles.jpeg"
     },
      {
         id: 9,
