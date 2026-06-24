@@ -506,10 +506,10 @@ const products = [
     },
      {
         id: 3,
-        name: "Multistone Floral Double Layer Necklace",
-        price: 49,
+        name: "WaterDrop Diamond Necklace",
+        price: 39,
         category: "AD Necklaces",
-        image: "MultistoneFloralDoubleLayerNecklace.jpeg"
+        image: "WaterDropDiamondNecklace.jpeg"
     },
      {
         id: 3,
