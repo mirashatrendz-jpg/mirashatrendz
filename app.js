@@ -526,6 +526,13 @@ const products = [
         category: "AD Necklaces",
         image: "JyothikaInspiredEmeraldNecklace.jpeg"
     },
+      {
+        id: 3,
+        name: "Premium Idol Pendant Emerald Stone",
+        price: 69,
+        category: "AD Necklaces",
+        image: "IdolPendantEmeraldStonePremiumNecklace.jpeg"
+    },
      {
         id: 3,
         name: "Ruby And Daimond Leaf Invisible AD",
