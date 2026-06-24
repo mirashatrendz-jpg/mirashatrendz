@@ -521,10 +521,10 @@ const products = [
     },
      {
         id: 3,
-        name: "Premium Queen AD Necklaces",
-        price: 99,
+        name: "Jyothika Inspired Emerald Necklace",
+        price: 89,
         category: "AD Necklaces",
-        image: "PREMIUMQUEENADNECKLACE.jpeg"
+        image: "JyothikaInspiredEmeraldNecklace.jpeg"
     },
      {
         id: 3,
