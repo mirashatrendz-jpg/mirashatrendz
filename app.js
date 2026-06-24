@@ -485,12 +485,19 @@ const products = [
     },
      {
         id: 3,
+        name: "Minimal Ruby Vine Choker",
+        price: 39,
+        category: "AD Necklaces",
+        image: "MinimalRubyVineChoker.jpeg"
+    },
+     {
+        id: 3,
         name: "Premium Victorian Emerald Diamond Necklace Set",
         price: 89,
         category: "AD Necklaces",
         image: "PremiumVictorianEmeraldDiamondNecklaceSet.jpeg"
     },
-       {
+      {
         id: 3,
         name: "AD Pendant Pearl Halo Necklace",
         price: 69,
