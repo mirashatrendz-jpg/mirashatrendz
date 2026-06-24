@@ -189,6 +189,13 @@ const products = [
         category: "Necklaces",
         image: "InvisibleChainwithWhiteStoneHeartDrops.jpeg"
     },
+      {
+        id: 1,
+        name: "Invisible Chain with Red Stone Heart Drops",
+        price: 9,
+        category: "Necklaces",
+        image: "InvisibleChainwithRedStoneHeartDrops.jpeg"
+    },
      {
         id: 1,
         name: "Multistone Non-Idol Floral Necklace",
