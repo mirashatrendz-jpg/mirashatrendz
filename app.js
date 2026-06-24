@@ -640,6 +640,13 @@ const products = [
     },
      {
         id: 9,
+        name: "Green Raindrop Bangles",
+        price: 19,
+        category: "Bangles",
+        image: "GreenRaindropBangles.jpeg"
+    },
+     {
+        id: 9,
         name: "Multistone Goddess Bangles",
         price: 59,
         category: "Bangles",
