@@ -402,6 +402,13 @@ const products = [
     },
      {
         id: 1,
+        name: "Minimal Diamond Vine Choker",
+        price: 39,
+        category: "Necklaces",
+        image: "MinimalDiamondVineChoker.jpeg"
+    },
+     {
+        id: 1,
         name: "Shanku Chakra Namam Necklace Set",
         price: 39,
         category: "Necklaces",
