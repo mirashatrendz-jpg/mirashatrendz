@@ -7,14 +7,14 @@ const products = [
         category: "Necklaces",
         image: "IdolCoinMaangaNecklace.jpeg"
     },
-    {
+     {
         id: 1,
         name: "Ruby Stone Goddess WhiteBeads Necklace",
         price: 49,
         category: "Necklaces",
         image: "RubyStoneGoddessWhiteBeadsNecklace.jpeg"
     },
-    {
+     {
         id: 1,
         name: "Green Maanga Invisible Chain",
         price: 39,
@@ -28,21 +28,21 @@ const products = [
         category: "Necklaces",
         image: "RubyStoneBeautifulGoddessWhitebeadsNecklace.jpeg"
     },
-      {
+     {
         id: 1,
         name: "KempStoneGreenMangoPalakka ",
         price: 49,
         category: "Necklaces",
         image: "KempStoneGreenMangoPalakka.jpeg"
     },
-       {
+     {
         id: 1,
         name: "LakshmiCoin Kemp Flower Choker Set",
         price: 49,
         category: "Necklaces",
         image: "LakshmiCoinKempFloweredChokerSet.jpeg"
     },
-    {
+     {
         id: 1,
         name: "Antique Lakshmi Pendant InvisibleChain",
         price: 39,
@@ -56,7 +56,7 @@ const products = [
         category: "Necklaces",
         image: "MultistoneTempleNecklaceSet.jpeg"
     },
-      {
+     {
         id: 1,
         name: "Ruby-Emerald Peacock Floral Choker Set",
         price: 39,
@@ -98,7 +98,7 @@ const products = [
         category: "Necklaces",
         image: "PastelGreenbeadsInvisibleChain.jpeg"
     },
-      {
+     {
         id: 1,
         name: "MultistoneNon-IdolNecklace",
         price: 29,
@@ -119,7 +119,7 @@ const products = [
         category: "Necklaces",
         image: "KempKathakaliNecklace.jpeg"
     },
-      {
+     {
         id: 1,
         name: "Red Palakka Emerald Stone Necklaces",
         price: 49,
@@ -133,7 +133,7 @@ const products = [
         category: "Necklaces",
         image: "RedPadmaLotusChokerSet.jpeg"
     },
-       {
+     {
         id: 1,
         name: "Multistone Floral Idol Maanga Choker",
         price: 39,
@@ -147,21 +147,21 @@ const products = [
         category: "Necklaces",
         image: "AntiqueFloralMultistoneChoker.jpeg"
     },
-    {
+     {
         id: 1,
         name: "Enamel Blue Palakka With Ruby Stones",
         price: 29,
         category: "Necklaces",
         image: "EnamelBluePalakkaWithRubyStones.jpeg"
     },
-      {
+     {
         id: 1,
         name: "Multicolor Floral IdolCoin Necklace",
         price: 39,
         category: "Necklaces",
         image: "MulticolorFloralIdolCoinNecklace.jpeg"
     },
-    {
+     {
         id: 1,
         name: "Green Palakka Ruby Stone Necklace",
         price: 49,
@@ -196,14 +196,14 @@ const products = [
         category: "Necklaces",
         image: "MultistoneGoddessPearlHanging.jpeg"
     },
-    {
+     {
         id: 1,
         name: "Premium Lakshmi Pendant Coral and GreenBeads Necklace",
         price: 59,
         category: "Necklaces",
         image: "PremiumLakshmiPendantCoralandGreenBeadsNecklace.jpeg"
     },
-      {
+     {
         id: 1,
         name: "Temple Hasli Necklace Set",
         price: 59,
@@ -238,7 +238,7 @@ const products = [
         category: "Necklaces",
         image: "Mangalsutra.jpeg"
     },
-      {
+     {
         id: 1,
         name: "Mangalsutra",
         price: 29,
@@ -259,7 +259,7 @@ const products = [
         category: "Necklaces",
         image: "AntiqueKempLakshmiNecklace.jpeg"
     },
-      {
+     {
         id: 1,
         name: "Mangalsutra",
         price: 29,
@@ -273,21 +273,20 @@ const products = [
         category: "Necklaces",
         image: "InvisibleChainwithWhiteStoneHeartDrops.jpeg"
     },
-      {
+     {
         id: 1,
         name: "Invisible Chain with Red Stone Heart Drops",
         price: 9,
         category: "Necklaces",
         image: "InvisibleChainwithRedStoneHeartDrops.jpeg"
     },
-          {
+     {
         id: 1,
         name: "Invisible Chain with Black Stone Heart Drops",
         price: 9,
         category: "Necklaces",
         image: "InvisibleChainWithBlackStoneHeartDrops.jpeg"
     },
-
      {
         id: 1,
         name: "Multistone Non-Idol Floral Necklace",
@@ -330,13 +329,13 @@ const products = [
         category: "Necklaces",
         image: "ElephantGoddessNecklaceWithPastelGreenHanging.jpeg"
     },
-       {
+     {
         id: 1,
         name: "Kemp Stone Set With Ghungroo",
         price: 49,
         category: "Necklaces",
         image: "KempStoneSetwithGhungroo.jpeg"
-    }
+    },
      {
         id: 1,
         name: "Long Hanging Ruby Lotus Necklace",
@@ -484,7 +483,7 @@ const products = [
         category: "AD Necklaces",
         image: "RoyalEmeraldNecklaceSet.jpeg"
     },
-    {
+     {
         id: 3,
         name: "Crystal Bloom Necklace Set",
         price: 59,
@@ -792,7 +791,7 @@ const products = [
         category: "Bangles",
         image: "BrightOrangeRoseBangles.jpeg"
     },
-    {
+     {
         id: 9,
         name: "Cyan Blue Rose Bangles",
         price: 29,
