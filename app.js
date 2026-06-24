@@ -170,6 +170,13 @@ const products = [
     },
      {
         id: 1,
+        name: "Multilayer Pearl Chain",
+        price: 29,
+        category: "Necklaces",
+        image: "MultilayerPearlChain.jpeg"
+    },
+     {
+        id: 1,
         name: "Invisible Daimond Flower Necklace",
         price: 29,
         category: "Necklaces",
