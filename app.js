@@ -203,7 +203,14 @@ const products = [
         category: "Necklaces",
         image: "Mangalsutra2.jpeg"
     },
-       {
+     {
+        id: 1,
+        name: "Multicolour floral drops Mangalsutra",
+        price: 39,
+        category: "Necklaces",
+        image: "Multicolour floral drops Mangalsutra.jpeg"
+    },
+      {
         id: 1,
         name: "Mangalsutra",
         price: 29,
