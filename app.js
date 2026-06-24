@@ -379,7 +379,7 @@ const products = [
         category: "Necklaces",
         image: "GreenLotusChokerNecklace.jpeg"
     },
-    {
+     {
         id: 1,
         name: "Temple Coin Emerald Choker Set",
         price: 49,
