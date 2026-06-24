@@ -463,9 +463,16 @@ const products = [
         category: "AD Necklaces",
         image: "NavaratnaNecklace.jpeg"
     },
+     {
+        id: 3,
+        name: "Royal Emerald Necklace Set",
+        price: 69,
+        category: "AD Necklaces",
+        image: "RoyalEmeraldNecklaceSet.jpeg"
+    },
     {
         id: 3,
-        name: "Crystal Bloom Necklace Set-",
+        name: "Crystal Bloom Necklace Set",
         price: 59,
         category: "AD Necklaces",
         image: "CrystalBloomNecklaceSet-.jpeg"
