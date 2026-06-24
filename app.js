@@ -393,7 +393,7 @@ const products = [
         category: "Necklaces",
         image: "Non-idolFloralCoinNecklace.jpeg"
     },
-    {
+     {
         id: 1,
         name: "Ruby And Emerald Floral Choker Set",
         price: 29,
@@ -505,7 +505,7 @@ const products = [
         category: "AD Necklaces",
         image: "LayeredHasliMultistoneNecklace.jpeg"
     },
-    {
+     {
         id: 3,
         name: "Kundan Stone Pendant PearlDrops",
         price: 39,
