@@ -483,12 +483,19 @@ const products = [
         category: "AD Necklaces",
         image: "RoyalEmeraldNecklaceSet.jpeg"
     },
-    {
+     {
         id: 3,
         name: "Multistone Floral Double Layer Necklace",
         price: 49,
         category: "AD Necklaces",
         image: "MultistoneFloralDoubleLayerNecklace.jpeg"
+    },
+     {
+        id: 3,
+        name: "Crystal Heart Charm Necklace Set",
+        price: 39,
+        category: "AD Necklaces",
+        image: "CrystalHeartCharmNecklaceSet.jpeg"
     },
      {
         id: 3,
