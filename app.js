@@ -682,6 +682,13 @@ const products = [
     },
      {
         id: 9,
+        name: "Maroon Zaara Bangles",
+        price: 29,
+        category: "Bangles",
+        image: "MaroonZaaraBangles.jpeg"
+    },
+     {
+        id: 9,
         name: "Multistone Goddess Bangles",
         price: 59,
         category: "Bangles",
