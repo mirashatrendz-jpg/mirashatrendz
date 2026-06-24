@@ -105,12 +105,19 @@ const products = [
         category: "Necklaces",
         image: "MultistoneNon-IdolNecklace.jpeg"
     },
-         {
+     {
         id: 1,
         name: "Premium Elephant Motif Choker Set",
         price: 49,
         category: "Necklaces",
         image: "PremiumElephantMotifChokerSet.jpeg"
+    },
+      {
+        id: 1,
+        name: "Red Palakka Emerald Stone Necklaces",
+        price: 49,
+        category: "Necklaces",
+        image: "RedPalakkaEmeraldStoneNecklaces.jpeg"
     },
      {
         id: 1,
