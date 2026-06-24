@@ -484,14 +484,21 @@ const products = [
         category: "AD Necklaces",
         image: "RubyBlossomNecklaceSet.jpeg"
     },
-       {
+      {
         id: 3,
         name: "Snow Flakes Diamond Necklace",
         price: 49,
         category: "AD Necklaces",
         image: "SnowFlakesDiamondNecklace.jpeg"
     },
-     {
+      {
+        id: 3,
+        name: "Hollow Circle Diamond Necklace",
+        price: 39,
+        category: "AD Necklaces",
+        image: "HollowCircleDiamondNecklace.jpeg"
+    },
+      {
         id: 3,
         name: "Quilted-Texture Adjustable Ring",
         price: 15,
