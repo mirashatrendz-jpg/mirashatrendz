@@ -173,7 +173,7 @@ const products = [
         name: "Multilayer Pearl Chain",
         price: 29,
         category: "Necklaces",
-        image: "MultilayerPearlChain.jpeg"
+        image: "MultilayerPearlChain.JPEG"
     },
      {
         id: 1,
