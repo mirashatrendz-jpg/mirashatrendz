@@ -182,7 +182,14 @@ const products = [
         category: "Necklaces",
         image: "LakshmiPendantRubyPalakkaNecklace.jpeg"
     },
-      {
+     {
+        id: 1,
+        name: "Lakshmi Pendant Green Palakka Necklace",
+        price: 69,
+        category: "Necklaces",
+        image: "LakshmiPendantGreenPalakkaNecklace.jpeg"
+    },
+     {
         id: 1,
         name: "Invisible Chain with White Stone Heart Drops",
         price: 9,
