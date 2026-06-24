@@ -626,7 +626,7 @@ const products = [
     },
         {
         id: 9,
-        name: "Raindrop Blue Bangles",
+        name: "Blue Raindrop Bangles",
         price: 19,
         category: "Bangles",
         image: "RaindropBlueBangles.jpeg"
