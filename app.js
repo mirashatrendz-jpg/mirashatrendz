@@ -485,6 +485,13 @@ const products = [
     },
      {
         id: 3,
+        name: "Multistone Floral Double Layer Necklace",
+        price: 49,
+        category: "AD Necklaces",
+        image: "MultistoneFloralDoubleLayerNecklace.jpeg"
+    },
+     {
+        id: 3,
         name: "Minimal Ruby Vine Choker",
         price: 39,
         category: "AD Necklaces",
