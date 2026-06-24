@@ -212,6 +212,13 @@ const products = [
     },
      {
         id: 1,
+        name: "Idol Pendant Premium Parrot Necklace",
+        price: 69,
+        category: "Necklaces",
+        image: "IdolPendantPremiumParrotNecklace.jpeg"
+    },
+     {
+        id: 1,
         name: "Lakshmi Pendant Green Palakka Necklace",
         price: 69,
         category: "Necklaces",
