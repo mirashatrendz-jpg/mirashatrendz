@@ -485,6 +485,13 @@ const products = [
     },
      {
         id: 3,
+        name: "Gold Plated Multistone AD Necklace",
+        price: 49,
+        category: "AD Necklaces",
+        image: "GoldPlatedMultistoneADNecklace.jpeg"
+    },
+     {
+        id: 3,
         name: "Crystal Bloom Necklace Set",
         price: 59,
         category: "AD Necklaces",
