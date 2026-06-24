@@ -485,6 +485,13 @@ const products = [
     },
      {
         id: 3,
+        name: "Premium Victorian Emerald Diamond Necklace Set",
+        price: 89,
+        category: "AD Necklaces",
+        image: "PremiumVictorianEmeraldDiamondNecklaceSet.jpeg"
+    },
+     {
+        id: 3,
         name: "Gold Plated Multistone AD Necklace",
         price: 49,
         category: "AD Necklaces",
