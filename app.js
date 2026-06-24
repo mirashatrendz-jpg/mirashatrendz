@@ -666,6 +666,13 @@ const products = [
         category: "Bangles",
         image: "BlackZaaraBangles.jpeg"
     },
+       {
+        id: 9,
+        name: "HotPink Zaara Bangles",
+        price: 29,
+        category: "Bangles",
+        image: "HotPinkZaaraBangles.jpeg"
+    },
      {
         id: 9,
         name: "Multistone Goddess Bangles",
