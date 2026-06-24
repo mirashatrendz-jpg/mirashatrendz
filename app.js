@@ -175,6 +175,13 @@ const products = [
         category: "Necklaces",
         image: "MultistoneGoddessPearlHanging.jpeg"
     },
+    {
+        id: 1,
+        name: "Premium Lakshmi Pendant Coral and GreenBeads Necklace",
+        price: 59,
+        category: "Necklaces",
+        image: "PremiumLakshmiPendantCoralandGreenBeadsNecklace.jpeg"
+    },
      {
         id: 1,
         name: "Lakshmi Pendant Ruby Palakka Necklace",
