@@ -535,6 +535,13 @@ const products = [
     },
       {
         id: 3,
+        name: "Premium Queen Necklace",
+        price: 99,
+        category: "AD Necklaces",
+        image: "PremiumQueenNecklace.jpeg"
+    },
+      {
+        id: 3,
         name: "Diamond Dew Necklace",
         price: 39,
         category: "AD Necklaces",
