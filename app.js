@@ -112,6 +112,13 @@ const products = [
         category: "Necklaces",
         image: "PremiumElephantMotifChokerSet.jpeg"
     },
+     {
+        id: 1,
+        name: "Kemp Kathakali Necklace",
+        price: 49,
+        category: "Necklaces",
+        image: "KempKathakaliNecklace.jpeg"
+    },
       {
         id: 1,
         name: "Red Palakka Emerald Stone Necklaces",
