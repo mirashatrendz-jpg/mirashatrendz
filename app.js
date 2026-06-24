@@ -404,7 +404,7 @@ const products = [
         id: 1,
         name: "Minimal Diamond Vine Choker",
         price: 39,
-        category: "Necklaces",
+        category: "Anti-Tarnish",
         image: "MinimalDiamondVineChoker.jpeg"
     },
      {
