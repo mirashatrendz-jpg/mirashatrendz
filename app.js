@@ -491,6 +491,13 @@ const products = [
         category: "AD Necklaces",
         image: "LayeredHasliMultistoneNecklace.jpeg"
     },
+    {
+        id: 3,
+        name: "Kundan Stone Pendant PearlDrops",
+        price: 39,
+        category: "AD Necklaces",
+        image: "KundanStonePendantPearlDropsNecklace.jpeg"
+    },
      {
         id: 3,
         name: "Snow Flakes Diamond Necklace",
