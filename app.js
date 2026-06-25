@@ -742,12 +742,19 @@ const products = [
         category: "Anti-Tarnish",
         image: "EloraOvalStud.jpeg"
     },
-       {
+     {
         id: 6,
         name: "Heart Textured Stud",
         price: 9,
         category: "Anti-Tarnish",
         image: "HeartTexturedStud.jpeg"
+    },
+     {
+        id: 6,
+        name: "Mini Teddy Stud",
+        price: 9,
+        category: "Anti-Tarnish",
+        image: "MiniTeddyStud.jpeg"
     },
       {
         id: 6,
