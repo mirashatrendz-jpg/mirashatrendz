@@ -818,6 +818,13 @@ const products = [
         category: "Anti-Tarnish",
         image: "StarTexturedStud.jpeg"
     },
+      {
+        id: 6,
+        name: "Nina Stud",
+        price: 9,
+        category: "Anti-Tarnish",
+        image: "NinaStud.jpeg"
+    },
      {
         id: 6,
         name: "Mini Teddy Stud",
