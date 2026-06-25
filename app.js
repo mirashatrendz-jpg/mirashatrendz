@@ -869,6 +869,13 @@ const products = [
     },
      {
         id: 6,
+        name: "Yara Stud",
+        price: 19,
+        category: "Anti-Tarnish",
+        image: "YaraStud.jpeg"
+    },
+     {
+        id: 6,
         name: "Butterfly Stud",
         price: 19,
         category: "Anti-Tarnish",
