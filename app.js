@@ -778,14 +778,13 @@ const products = [
         image: "NuggetStud.jpeg"
     },
      {
-       {
         id: 6,
         name: "Mila Stud",
         price: 9,
         category: "Anti-Tarnish",
         image: "MilaStud.jpeg"
-    },
-        id: 6,
+    }, 
+     {  id: 6,
         name: "Luna Stud",
         price: 9,
         category: "Anti-Tarnish",
