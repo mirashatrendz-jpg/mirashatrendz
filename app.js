@@ -777,6 +777,13 @@ const products = [
         category: "Anti-Tarnish",
         image: "NuggetStud.jpeg"
     },
+      {
+        id: 6,
+        name: "Luna Stud",
+        price: 9,
+        category: "Anti-Tarnish",
+        image: "LunaStud.jpeg"
+    },
      {
         id: 6,
         name: "The Trinity Mini Stud",
