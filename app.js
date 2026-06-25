@@ -770,6 +770,13 @@ const products = [
         category: "Anti-Tarnish",
         image: "TheTrinityMiniStud.jpeg"
     },
+      {
+        id: 6,
+        name: "Maya Textured Stud",
+        price: 9,
+        category: "Anti-Tarnish",
+        image: "MayaTexturedStud.jpeg"
+    },
      {
         id: 6,
         name: "Star Textured Stud",
