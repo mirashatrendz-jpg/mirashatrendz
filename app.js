@@ -813,6 +813,13 @@ const products = [
     },
      {
         id: 6,
+        name: "Alba Stud",
+        price: 9,
+        category: "Anti-Tarnish",
+        image: "AlbaStud.jpeg"
+    },
+     {
+        id: 6,
         name: "Star Textured Stud",
         price: 9,
         category: "Anti-Tarnish",
