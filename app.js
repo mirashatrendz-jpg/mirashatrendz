@@ -862,6 +862,13 @@ const products = [
     },
      {
         id: 6,
+        name: "Zara Stud",
+        price: 19,
+        category: "Anti-Tarnish",
+        image: "ZaraStud.jpeg"
+    },
+     {
+        id: 6,
         name: "Snake Chain with Black Stone Pendant",
         price: 19,
         category: "Anti-Tarnish",
