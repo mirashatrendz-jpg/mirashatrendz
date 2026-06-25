@@ -751,6 +751,13 @@ const products = [
     },
      {
         id: 6,
+        name: "The Cora Heart Stud",
+        price: 9,
+        category: "Anti-Tarnish",
+        image: "TheCoraHeartStud.jpeg"
+    },
+     {
+        id: 6,
         name: "The Trinity Mini Stud",
         price: 9,
         category: "Anti-Tarnish",
