@@ -763,14 +763,20 @@ const products = [
         category: "Anti-Tarnish",
         image: "TheCoraHeartStud.jpeg"
     },
-      {
+     {
         id: 6,
         name: "DropletStud",
         price: 9,
         category: "Anti-Tarnish",
         image: "DropletStud.jpeg"
     },
-
+     {
+        id: 6,
+        name: "Nugget Stud",
+        price: 9,
+        category: "Anti-Tarnish",
+        image: "NuggetStud.jpeg"
+    },
      {
         id: 6,
         name: "The Trinity Mini Stud",
