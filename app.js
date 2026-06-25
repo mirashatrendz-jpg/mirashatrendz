@@ -860,6 +860,13 @@ const products = [
         category: "Anti-Tarnish",
         image: "ReyaTexturedStud.jpeg"
     },
+      {
+        id: 6,
+        name: "BlackOnyxRing",
+        price: 19,
+        category: "Anti-Tarnish",
+        image: "BlackOnyxRing.jpeg"
+    },
      {
         id: 6,
         name: "Faye Stud",
