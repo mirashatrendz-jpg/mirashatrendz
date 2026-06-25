@@ -735,6 +735,13 @@ const products = [
         category: "Anti-Tarnish",
         image: "AdjustableChainwithWaterdropPendant.jpeg"
     },
+       {
+        id: 6,
+        name: "Elora Oval Stud",
+        price: 9,
+        category: "Anti-Tarnish",
+        image: "EloraOvalStud.jpeg"
+    },
      {
         id: 6,
         name: "Snake Chain with Black Stone Pendant",
