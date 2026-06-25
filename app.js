@@ -770,6 +770,13 @@ const products = [
         category: "Anti-Tarnish",
         image: "TheTrinityMiniStud.jpeg"
     },
+    {
+        id: 6,
+        name: "Cleo Ribbed Stud",
+        price: 9,
+        category: "Anti-Tarnish",
+        image: "CleoRibbedStud.jpeg"
+    },
       {
         id: 6,
         name: "Maya Textured Stud",
