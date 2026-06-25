@@ -867,6 +867,13 @@ const products = [
         category: "Anti-Tarnish",
         image: "FayeStud.jpeg"
     },
+      {
+        id: 6,
+        name: "Lily Bow Necklace",
+        price: 9,
+        category: "Anti-Tarnish",
+        image: "LillyBowNecklace.jpeg"
+    },
      {
         id: 6,
         name: "Yara Stud",
