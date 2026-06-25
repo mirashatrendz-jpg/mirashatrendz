@@ -811,6 +811,13 @@ const products = [
         category: "Anti-Tarnish",
         image: "MayaTexturedStud.jpeg"
     },
+      {
+        id: 6,
+        name: "Aria Stud",
+        price: 9,
+        category: "Anti-Tarnish",
+        image: "AriaStud.jpeg"
+    },
      {
         id: 6,
         name: "Tara Stud",
