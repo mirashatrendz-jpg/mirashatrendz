@@ -876,6 +876,13 @@ const products = [
     },
      {
         id: 6,
+        name: "Flora Stud",
+        price: 19,
+        category: "Anti-Tarnish",
+        image: "FloraStud.jpeg"
+    },
+     {
+        id: 6,
         name: "Butterfly Stud",
         price: 19,
         category: "Anti-Tarnish",
