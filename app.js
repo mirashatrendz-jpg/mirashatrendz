@@ -749,6 +749,13 @@ const products = [
         category: "Anti-Tarnish",
         image: "HeartTexturedStud.jpeg"
     },
+      {
+        id: 6,
+        name: "Isla Shell Stud",
+        price: 9,
+        category: "Anti-Tarnish",
+        image: "IslaShellStud.jpeg"
+    },
      {
         id: 6,
         name: "The Cora Heart Stud",
