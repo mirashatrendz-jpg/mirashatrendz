@@ -869,6 +869,13 @@ const products = [
     },
       {
         id: 6,
+        name: "HeartNecklace",
+        price: 9,
+        category: "Anti-Tarnish",
+        image: "HeartNecklace.jpeg"
+    },
+      {
+        id: 6,
         name: "Lily Bow Necklace",
         price: 9,
         category: "Anti-Tarnish",
