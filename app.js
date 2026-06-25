@@ -814,7 +814,7 @@ const products = [
       {
         id: 6,
         name: "Aria Stud",
-        price: 9,
+        price: 19,
         category: "Anti-Tarnish",
         image: "AriaStud.jpeg"
     },
