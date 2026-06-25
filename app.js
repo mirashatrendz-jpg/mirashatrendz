@@ -735,12 +735,19 @@ const products = [
         category: "Anti-Tarnish",
         image: "AdjustableChainwithWaterdropPendant.jpeg"
     },
-       {
+     {
         id: 6,
         name: "Elora Oval Stud",
         price: 9,
         category: "Anti-Tarnish",
         image: "EloraOvalStud.jpeg"
+    },
+       {
+        id: 6,
+        name: "Reya Textured Stud",
+        price: 9,
+        category: "Anti-Tarnish",
+        image: "ReyaTexturedStud.jpeg"
     },
      {
         id: 6,
