@@ -860,6 +860,13 @@ const products = [
         category: "Anti-Tarnish",
         image: "BlueOnyxRing.jpeg"
     },
+    {
+        id: 6,
+        name: "Ruby Reign Ring",
+        price: 15,
+        category: "Anti-Tarnish",
+        image: "RubyReignRing.jpeg"
+    },
       {
         id: 6,
         name: "BlushPinkRing",
