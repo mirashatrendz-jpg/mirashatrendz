@@ -853,6 +853,13 @@ const products = [
         category: "Anti-Tarnish",
         image: "MiniTeddyStud.jpeg"
     },
+     {
+        id: 6,
+        name: "BlueOnyxRing",
+        price: 15,
+        category: "Anti-Tarnish",
+        image: "BlueOnyxRing.jpeg"
+    },
       {
         id: 6,
         name: "Reya Textured Stud",
