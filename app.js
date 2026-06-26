@@ -869,6 +869,13 @@ const products = [
     },
      {
         id: 6,
+        name: "Orchid Glow Ring",
+        price: 15,
+        category: "Anti-Tarnish",
+        image: "OrchidGlowRing.jpeg"
+    },
+     {
+        id: 6,
         name: "EmeraldReignRing",
         price: 15,
         category: "Anti-Tarnish",
