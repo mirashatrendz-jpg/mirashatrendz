@@ -862,6 +862,13 @@ const products = [
     },
       {
         id: 6,
+        name: "BlushPinkRing",
+        price: 15,
+        category: "Anti-Tarnish",
+        image: "BlushPinkRing.jpeg"
+    },
+      {
+        id: 6,
         name: "Reya Textured Stud",
         price: 9,
         category: "Anti-Tarnish",
