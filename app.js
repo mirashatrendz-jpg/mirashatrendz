@@ -863,16 +863,23 @@ const products = [
       {
         id: 6,
         name: "BlackOnyxRing",
-        price: 19,
+        price: 15,
         category: "Anti-Tarnish",
         image: "BlackOnyxRing.jpeg"
     },
       {
         id: 6,
         name: "CrystalWhiteRing",
-        price: 19,
+        price: 15,
         category: "Anti-Tarnish",
         image: "CrystalWhiteRing.jpeg"
+    },
+       {
+        id: 6,
+        name: "Amber Solitaire Ring",
+        price: 15,
+        category: "Anti-Tarnish",
+        image: "AmberSolitaireRing.jpeg"
     },
      {
         id: 6,
