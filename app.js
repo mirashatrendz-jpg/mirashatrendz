@@ -749,7 +749,14 @@ const products = [
         category: "Anti-Tarnish",
         image: "HeartTexturedStud.jpeg"
     },
-      {
+     {
+        id: 6,
+        name: "Multi Loop Ring",
+        price: 9,
+        category: "Anti-Tarnish",
+        image: "MultiLoopRing.jpeg"
+    },
+     {
         id: 6,
         name: "Coiled Serpant Ring",
         price: 9,
