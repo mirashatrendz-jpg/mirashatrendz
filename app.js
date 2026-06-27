@@ -749,6 +749,13 @@ const products = [
         category: "Anti-Tarnish",
         image: "HeartTexturedStud.jpeg"
     },
+     {
+        id: 6,
+        name: "Gold Open Fluid Ring",
+        price: 9,
+        category: "Anti-Tarnish",
+        image: "GoldOpenFluidRing.jpeg"
+    },
       {
         id: 6,
         name: "Isla Shell Stud",
