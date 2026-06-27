@@ -756,6 +756,13 @@ const products = [
         category: "Anti-Tarnish",
         image: "GoldOpenFluidRing.jpeg"
     },
+     {
+        id: 6,
+        name: "Star Rabbit Ring",
+        price: 9,
+        category: "Anti-Tarnish",
+        image: "StarRabbitStainlessSteelRing.jpeg"
+    },
       {
         id: 6,
         name: "Isla Shell Stud",
