@@ -749,12 +749,26 @@ const products = [
         category: "Anti-Tarnish",
         image: "HeartTexturedStud.jpeg"
     },
+      {
+        id: 6,
+        name: "Coiled Serpant Ring",
+        price: 9,
+        category: "Anti-Tarnish",
+        image: "CoiledSerpant.jpeg"
+    },
      {
         id: 6,
         name: "Gold Open Fluid Ring",
         price: 9,
         category: "Anti-Tarnish",
         image: "GoldOpenFluidRing.jpeg"
+    },
+     {
+        id: 6,
+        name: "Multilayered Crisscross Ring",
+        price: 9,
+        category: "Anti-Tarnish",
+        image: "MultilayeredCrisscrossRing.jpeg"
     },
      {
         id: 6,
