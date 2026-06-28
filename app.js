@@ -1007,12 +1007,19 @@ const products = [
         category: "Anti-Tarnish",
         image: "BambooRing.jpeg"
     },
-    {
+     {
         id: 6,
         name: "Ruby Gem Ring",
         price: 9,
         category: "Anti-Tarnish",
         image: "RubyGemRing.jpeg"
+    },
+    {
+        id: 6,
+        name: "Blue Sapphire Ring",
+        price: 9,
+        category: "Anti-Tarnish",
+        image: "BlueSapphireRing.jpeg"
     },
       {
         id: 6,
