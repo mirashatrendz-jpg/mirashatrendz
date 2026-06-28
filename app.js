@@ -1014,6 +1014,20 @@ const products = [
         category: "Anti-Tarnish",
         image: "RubyGemRing.jpeg"
     },
+       {
+        id: 6,
+        name: "Twilight TeaDrop EarHook",
+        price: 19,
+        category: "Anti-Tarnish",
+        image: "TwilightTeaDropEarhook.jpeg"
+    },
+       {
+        id: 6,
+        name: "IcePetalEarHook",
+        price: 19,
+        category: "Anti-Tarnish",
+        image: "IcePetalEarHook.jpeg"
+    },
       {
         id: 6,
         name: "Black Sapphire Ring",
