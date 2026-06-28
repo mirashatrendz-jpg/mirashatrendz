@@ -450,6 +450,13 @@ const products = [
     },
      {
         id: 2,
+        name: "Dasavathara Temple Haaram",
+        price: 89,
+        category: "Haarams",
+        image: "DasavatharaTempleHaaram.jpeg"
+    },
+     {
+        id: 2,
         name: "IdolCoinTempleHaaram",
         price: 49,
         category: "Haarams",
