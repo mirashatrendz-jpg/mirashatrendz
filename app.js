@@ -464,7 +464,7 @@ const products = [
     },
      {
         id: 2,
-        name: "Goddess Heavy Haaram",
+        name: "Goddess Haaram",
         price: 119,
         category: "Haarams",
         image: "GoddessHeavyHaaram.jpeg"
