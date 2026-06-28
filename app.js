@@ -1004,14 +1004,14 @@ const products = [
         id: 6,
         name: "Twilight TeaDrop EarHook",
         price: 19,
-        category: "Anti-Tarnish",
+        category: "Earrings",
         image: "TwilightTeaDropEarhook.jpeg"
     },
-      {
+      {1613
         id: 6,
         name: "IcePetalEarHook",
         price: 19,
-        category: "Anti-Tarnish",
+        category: "Earrings",
         image: "IcePetalEarHook.jpeg"
     },
       {
