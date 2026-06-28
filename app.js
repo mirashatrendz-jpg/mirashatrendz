@@ -951,6 +951,13 @@ const products = [
         category: "Anti-Tarnish",
         image: "BlackOnyxRing.jpeg"
     },
+     {
+        id: 6,
+        name: "Open Twist Ring",
+        price: 9,
+        category: "Anti-Tarnish",
+        image: "OpenTwistRing.jpeg"
+    },
       {
         id: 6,
         name: "CrystalWhiteRing",
@@ -958,7 +965,7 @@ const products = [
         category: "Anti-Tarnish",
         image: "CrystalWhiteRing.jpeg"
     },
-       {
+     {
         id: 6,
         name: "Amber Solitaire Ring",
         price: 15,
