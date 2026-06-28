@@ -946,6 +946,13 @@ const products = [
     },
       {
         id: 6,
+        name: "Reya Textured Stud",
+        price: 9,
+        category: "Anti-Tarnish",
+        image: "ReyaTexturedStud.jpeg"
+    },
+      {
+        id: 6,
         name: "Hollow Oval Ring",
         price: 9,
         category: "Anti-Tarnish",
@@ -1128,10 +1135,10 @@ const products = [
     },
      {
         id: 9,
-        name: "Purple Zaara Bangles",
+        name: "Open Crisscross Ring",
         price: 29,
         category: "Bangles",
-        image: "PurpleZaaraBangles.jpeg"
+        image: "OpenCrisscrossRing.jpeg"
     },
      {
         id: 9,
