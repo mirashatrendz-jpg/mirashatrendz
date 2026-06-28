@@ -455,6 +455,13 @@ const products = [
         category: "Haarams",
         image: "IdolCoinTempleHaaram.jpeg"
     },
+      {
+        id: 2,
+        name: "Non-idol Haaram",
+        price: 79,
+        category: "Haarams",
+        image: "Non-idolHaaram.jpeg"
+    },
      {
         id: 2,
         name: "Idol Coin Bridal Set",
