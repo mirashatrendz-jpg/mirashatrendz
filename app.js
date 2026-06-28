@@ -1000,6 +1000,13 @@ const products = [
         category: "Anti-Tarnish",
         image: "HeartNecklace.jpeg"
     },
+       {
+        id: 6,
+        name: "Bamboo Ring",
+        price: 9,
+        category: "Anti-Tarnish",
+        image: "BambooRing.jpeg"
+    },
       {
         id: 6,
         name: "Lily Bow Necklace",
