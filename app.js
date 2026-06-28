@@ -444,7 +444,7 @@ const products = [
      {
         id: 2,
         name: "Temple Heavy Bridal Set",
-        price: 119,
+        price: 19,
         category: "Haarams",
         image: "TempleHeavyBridalSet.jpeg"
     },
