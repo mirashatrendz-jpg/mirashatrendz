@@ -1007,7 +1007,7 @@ const products = [
         category: "Earrings",
         image: "TwilightTeaDropEarhook.jpeg"
     },
-      {1613
+      {
         id: 6,
         name: "IcePetalEarHook",
         price: 19,
