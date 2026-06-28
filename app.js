@@ -1009,6 +1009,14 @@ const products = [
     },
       {
         id: 6,
+        name: "Emerald Gem Ring",
+        price: 9,
+        category: "Anti-Tarnish",
+        image: "EmeraldGemRing.jpeg"
+    },
+
+      {
+        id: 6,
         name: "Lily Bow Necklace",
         price: 9,
         category: "Anti-Tarnish",
