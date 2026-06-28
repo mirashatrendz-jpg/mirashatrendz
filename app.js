@@ -751,6 +751,20 @@ const products = [
     },
      {
         id: 6,
+        name: "Open Cage Ring",
+        price: 9,
+        category: "Anti-Tarnish",
+        image: "OpenCageRing.jpeg"
+    },
+     {
+        id: 6,
+        name: "Looping Twist Ring",
+        price: 9,
+        category: "Anti-Tarnish",
+        image: "LoopingTwistRing.jpeg"
+    },
+     {
+        id: 6,
         name: "Multi Loop Ring",
         price: 9,
         category: "Anti-Tarnish",
