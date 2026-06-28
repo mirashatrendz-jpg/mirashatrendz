@@ -1009,6 +1009,13 @@ const products = [
     },
      {
         id: 6,
+        name: "Heart Pattern Ring",
+        price: 9,
+        category: "Anti-Tarnish",
+        image: "HeartPatternRing.jpeg"
+    },
+     {
+        id: 6,
         name: "Yara Stud",
         price: 19,
         category: "Anti-Tarnish",
