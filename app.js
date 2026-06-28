@@ -946,6 +946,13 @@ const products = [
     },
       {
         id: 6,
+        name: "Hollow Oval Ring",
+        price: 9,
+        category: "Anti-Tarnish",
+        image: "HollowOvalRing.jpeg"
+    },
+      {
+        id: 6,
         name: "BlackOnyxRing",
         price: 15,
         category: "Anti-Tarnish",
