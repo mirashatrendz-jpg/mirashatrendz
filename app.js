@@ -632,24 +632,10 @@ const products = [
     },
       {
         id: 4,
-        name: "JadauKundanHalfMoonBugadi.jpeg",
+        name: "JadauKundanHalfMoonBugadi",
         price: 29,
         category: "Earrings",
         image: "JadauKundanHalfMoonBugadi.jpeg"
-    },
-      {
-        id: 4,
-        name: "Dancing Girl EarCuff",
-        price: 19,
-        category: "Earrings",
-        image: "DancingGirlEarCuff.jpeg"
-    },
-      {
-        id: 4,
-        name: "Dancing Girl EarCuff",
-        price: 19,
-        category: "Earrings",
-        image: "DancingGirlEarCuff.jpeg"
     },
      {
         id: 4,
@@ -1014,14 +1000,14 @@ const products = [
         category: "Anti-Tarnish",
         image: "RubyGemRing.jpeg"
     },
-       {
+      {
         id: 6,
         name: "Twilight TeaDrop EarHook",
         price: 19,
         category: "Anti-Tarnish",
         image: "TwilightTeaDropEarhook.jpeg"
     },
-       {
+      {
         id: 6,
         name: "IcePetalEarHook",
         price: 19,
