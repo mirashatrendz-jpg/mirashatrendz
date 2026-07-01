@@ -532,7 +532,14 @@ const products = [
         category: "Haarams",
         image: "IdolCoinTempleHaaram.jpeg"
     },
-        {
+     {
+        id: 2,
+        name: "Premium AD climber Earcuff",
+        price: 29,
+        category: "Earrings",
+        image: "PremiumADcimberEarcuff29.jpeg"
+    },
+     {
         id: 2,
         name: "Enamel Palakk Jhumka With GreenBeads",
         price: 29,
