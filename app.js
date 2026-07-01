@@ -472,7 +472,7 @@ const products = [
      {
         id: 2,
         name: "Idol Pendant Gold Beads Haaram",
-        price: 59,
+        price: 39,
         category: "Haarams",
         image: "IdolPendantGoldBeadsHaaram.jpeg"
     },
