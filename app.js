@@ -513,6 +513,13 @@ const products = [
     },
      {
         id: 2,
+        name: "Nakshi Rice Drop Antique Jhumka",
+        price: 49,
+        category: "Earrings",
+        image: "NakshiRiceDropAntiqueJhumka.jpeg"
+    },
+     {
+        id: 2,
         name: "Non-idol Bridal Set",
         price: 99,
         category: "Haarams",
