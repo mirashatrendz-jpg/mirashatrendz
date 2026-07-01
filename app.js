@@ -478,6 +478,13 @@ const products = [
     },
      {
         id: 2,
+        name: "Long Palakka Set",
+        price: 49,
+        category: "Haarams",
+        image: "LongPalakkaSet.jpeg"
+    },
+     {
+        id: 2,
         name: "Ruby Goddess Haaram",
         price: 79,
         category: "Haarams",
