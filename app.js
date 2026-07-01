@@ -536,7 +536,7 @@ const products = [
         id: 2,
         name: "Enamel Palakk Jhumka With GreenBeads",
         price: 29,
-        category: "Haarams",
+        category: "Earrings",
         image: "EnamelPalakkJhumkaWithHangingGreenBeads.jpeg"
     },
       {
