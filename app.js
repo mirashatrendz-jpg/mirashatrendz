@@ -471,6 +471,13 @@ const products = [
     },
      {
         id: 2,
+        name: "Peacock Goddess Pearl Haaram",
+        price: 59,
+        category: "Haarams",
+        image: "PeacockGoddessPearlHaaram.jpeg"
+    },
+     {
+        id: 2,
         name: "Dasavathara Temple Haaram",
         price: 89,
         category: "Haarams",
