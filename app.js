@@ -471,6 +471,13 @@ const products = [
     },
      {
         id: 2,
+        name: "Idol Pendant Gold Beads Haaram",
+        price: 59,
+        category: "Haarams",
+        image: "IdolPendantGoldBeadsHaaram.jpeg"
+    },
+     {
+        id: 2,
         name: "Ruby Goddess Haaram",
         price: 79,
         category: "Haarams",
