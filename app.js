@@ -532,6 +532,13 @@ const products = [
         category: "Haarams",
         image: "IdolCoinTempleHaaram.jpeg"
     },
+        {
+        id: 2,
+        name: "Enamel Palakk Jhumka With GreenBeads",
+        price: 29,
+        category: "Haarams",
+        image: "EnamelPalakkJhumkaWithHangingGreenBeads.jpeg"
+    },
       {
         id: 2,
         name: "Non-idol Haaram",
