@@ -464,6 +464,13 @@ const products = [
     },
      {
         id: 2,
+        name: "Antique Long Goddess Haaram",
+        price: 69,
+        category: "Haarams",
+        image: "AntiqueLongGoddessHaaram.jpeg"
+    },
+     {
+        id: 2,
         name: "Ruby Goddess Haaram",
         price: 79,
         category: "Haarams",
