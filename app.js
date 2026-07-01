@@ -457,6 +457,13 @@ const products = [
     },
      {
         id: 2,
+        name: "Ruby Goddess Haaram",
+        price: 79,
+        category: "Haarams",
+        image: "RubyGoddessHaaram.jpeg"
+    },
+     {
+        id: 2,
         name: "Dasavathara Temple Haaram",
         price: 89,
         category: "Haarams",
