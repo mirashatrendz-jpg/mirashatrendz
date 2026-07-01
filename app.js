@@ -448,7 +448,14 @@ const products = [
         category: "Haarams",
         image: "TempleHeavyBridalSet.jpeg"
     },
-      {
+     {
+        id: 2,
+        name: "Lakshmi Vaibhavam Ruby Beads Haaram",
+        price: 79,
+        category: "Haarams",
+        image: "LakshmiVaibhavamRubyBeadsHaaram.jpeg"
+    },
+     {
         id: 2,
         name: "Layered Pearl Mahalakshmi Pendant Haaram",
         price: 49,
