@@ -448,6 +448,13 @@ const products = [
         category: "Haarams",
         image: "TempleHeavyBridalSet.jpeg"
     },
+      {
+        id: 2,
+        name: "Layered Pearl Mahalakshmi Pendant Haaram",
+        price: 49,
+        category: "Haarams",
+        image: "LayeredPearlMahalakshmiPendantHaaram.jpeg"
+    },
      {
         id: 2,
         name: "Dasavathara Temple Haaram",
