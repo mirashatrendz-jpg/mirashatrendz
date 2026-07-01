@@ -539,6 +539,13 @@ const products = [
         category: "Earrings",
         image: "PremiumADcimberEarcuff29.jpeg"
     },
+      {
+        id: 2,
+        name: "Jadau Kundan Floral Design Bugadi",
+        price: 29,
+        category: "Earrings",
+        image: "JadauKundanFloralDesignBugadi.jpeg"
+    },
      {
         id: 2,
         name: "Enamel Palakk Jhumka With GreenBeads",
@@ -546,7 +553,7 @@ const products = [
         category: "Earrings",
         image: "EnamelPalakkJhumkaWithHangingGreenBeads.jpeg"
     },
-      {
+     {
         id: 2,
         name: "Non-idol Haaram",
         price: 79,
