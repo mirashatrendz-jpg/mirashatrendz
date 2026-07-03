@@ -718,6 +718,37 @@ img {
 /* ==========================================================================
    Animations & Utilities
    ========================================================================== */
+
+.page-loader {
+    position: fixed;
+    inset: 0;
+    z-index: 9999;
+    background: var(--color-dark);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    transition: opacity 0.5s ease, visibility 0.5s ease;
+}
+
+.page-loader.hidden {
+    opacity: 0;
+    visibility: hidden;
+    pointer-events: none;
+}
+
+.loader-spinner {
+    width: 40px;
+    height: 40px;
+    border: 3px solid rgba(212, 175, 55, 0.2);
+    border-top-color: var(--color-accent);
+    border-radius: 50%;
+    animation: spin 0.8s linear infinite;
+}
+
+@keyframes spin {
+    to { transform: rotate(360deg); }
+}
+
 .fade-in-on-scroll {
     opacity: 0;
     transform: translateY(30px);

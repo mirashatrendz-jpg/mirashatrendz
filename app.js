@@ -1670,6 +1670,10 @@ document.addEventListener('DOMContentLoaded', () => {
     updateCartUI();
     initScrollAnimations();
     initStickyHeader();
+
+    setTimeout(() => {
+        document.getElementById('page-loader').classList.add('hidden');
+    }, 400);
 });
 
 // --- Product Rendering & Filtering ---
