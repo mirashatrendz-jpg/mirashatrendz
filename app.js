@@ -5,7 +5,8 @@ const products = [
         name: "Idol Coin Maanga Necklace ",
         price: 49,
         category: "Necklaces",
-        image: "IdolCoinMaangaNecklace.webp"
+        image: "IdolCoinMaangaNecklace.webp",
+        soldOut: true,
     },
      {
         id: 1,
@@ -1681,9 +1682,14 @@ function renderProducts(filterStr) {
 
     filtered.forEach(product => {
         const card = document.createElement('div');
+        const soldOut = product.soldOut || false;
         card.className = 'product-card zoom-in';
+        if (soldOut) card.classList.add('sold-out');
         card.innerHTML = `
-            <img src="${product.image}" alt="${product.name}" class="product-image">
+            <div class="product-img-wrapper">
+                <img src="${product.image}" alt="${product.name}" class="product-image">
+                ${soldOut ? '<span class="sold-out-badge">Sold Out</span>' : ''}
+            </div>
             <div class="product-category">${product.category}</div>
             <h3 class="product-title">${product.name}</h3>
             <div class="product-price">
@@ -1691,7 +1697,10 @@ function renderProducts(filterStr) {
                 AED ${product.price.toFixed(2)}
             </div>
             <div class="product-actions">
-                <button class="btn btn-primary" onclick="addToCart(${product.id})">Add to Cart</button>
+                ${soldOut
+                    ? '<button class="btn btn-disabled" disabled>Sold Out</button>'
+                    : `<button class="btn btn-primary" onclick="addToCart(${product.id})">Add to Cart</button>`
+                }
             </div>
         `;
         productList.appendChild(card);
@@ -1732,7 +1741,7 @@ categoryCards.forEach(card => {
 // --- Cart Logic ---
 window.addToCart = function (productId) {
     const productDef = products.find(p => p.id === productId);
-    if (!productDef) return;
+    if (!productDef || productDef.soldOut) return;
 
     const existingItem = cart.find(item => item.id === productId);
     if (existingItem) {

@@ -361,11 +361,43 @@ img {
     transform: translateY(-5px);
 }
 
+.product-img-wrapper {
+    position: relative;
+    margin-bottom: 1.5rem;
+}
+
 .product-image {
     width: 100%;
     aspect-ratio: 1;
     object-fit: cover;
-    margin-bottom: 1.5rem;
+    display: block;
+}
+
+.sold-out-badge {
+    position: absolute;
+    top: 10px;
+    left: 10px;
+    background: var(--color-accent);
+    color: #fff;
+    padding: 0.3rem 0.8rem;
+    font-size: 0.75rem;
+    font-weight: 400;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    background-color: red;
+    border-radius: 4px;
+}
+
+.product-card.sold-out .product-image {
+    opacity: 0.5;
+}
+
+.btn-disabled {
+    background: #555;
+    color: #999;
+    cursor: not-allowed;
+    border: 1px solid #555;
+    pointer-events: none;
 }
 
 .product-category {
