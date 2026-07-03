@@ -1681,7 +1681,7 @@ function renderProducts(filterStr) {
 
     filtered.forEach(product => {
         const card = document.createElement('div');
-        card.className = 'product-card';
+        card.className = 'product-card zoom-in';
         card.innerHTML = `
             <img src="${product.image}" alt="${product.name}" class="product-image">
             <div class="product-category">${product.category}</div>
@@ -1708,6 +1708,7 @@ filterBtns.forEach(btn => {
         // Render
         const filterStr = e.target.getAttribute('data-filter');
         renderProducts(filterStr);
+        initScrollAnimations();
 
         // Scroll to products
         document.getElementById('products').scrollIntoView({ behavior: 'smooth' });
@@ -1723,6 +1724,7 @@ categoryCards.forEach(card => {
             b.classList.toggle('active', b.getAttribute('data-filter') === filterStr);
         });
         renderProducts(filterStr);
+        initScrollAnimations();
         document.getElementById('products').scrollIntoView({ behavior: 'smooth' });
     });
 });
@@ -1861,7 +1863,7 @@ whatsappCheckoutBtn.addEventListener('click', () => {
 
 // --- Scroll Animations ---
 function initScrollAnimations() {
-    const elements = document.querySelectorAll('.fade-in-on-scroll');
+    const elements = document.querySelectorAll('.fade-in-on-scroll, .zoom-in');
 
     const observer = new IntersectionObserver((entries) => {
         entries.forEach(entry => {
