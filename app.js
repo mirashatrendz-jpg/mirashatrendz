@@ -1895,6 +1895,38 @@ function initScrollAnimations() {
     elements.forEach(el => observer.observe(el));
 }
 
+// --- Image Modal ---
+const imageModal = document.getElementById('image-modal');
+const imageModalImg = document.getElementById('image-modal-img');
+const imageModalClose = document.querySelector('.image-modal-close');
+
+document.addEventListener('click', (e) => {
+    const wrapper = e.target.closest('.product-img-wrapper');
+    if (wrapper) {
+        const img = wrapper.querySelector('img');
+        if (img) {
+            imageModalImg.src = img.src;
+            imageModalImg.alt = img.alt;
+            imageModal.classList.add('active');
+            document.body.style.overflow = 'hidden';
+        }
+    }
+});
+
+function closeImageModal() {
+    imageModal.classList.remove('active');
+    document.body.style.overflow = '';
+}
+
+imageModalClose.addEventListener('click', closeImageModal);
+imageModal.addEventListener('click', (e) => {
+    if (e.target === imageModal) closeImageModal();
+});
+
+document.addEventListener('keydown', (e) => {
+    if (e.key === 'Escape') closeImageModal();
+});
+
 // --- Sticky Header Logic ---
 function initStickyHeader() {
     const header = document.querySelector('.header');
