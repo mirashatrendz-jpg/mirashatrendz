@@ -374,7 +374,7 @@ img {
 }
 
 .product-img-wrapper {
-    cursor: pointer;
+    cursor: zoom-in;
 }
 
 .sold-out-badge {
