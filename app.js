@@ -1660,6 +1660,13 @@ const products = [
         category: "Earrings",
         image: "AntiqueUmbrellaGoddessJhumka49.jpeg"
     },
+     {
+        id: 238,
+        name: "Goddess Shanghu Jhumka",
+        price: 39,
+        category: "Earrings",
+        image: "GoddessShanghuJhumkaWithPearlDrops39.jpeg"
+    },
 ];
 
 // --- State ---
