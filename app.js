@@ -1667,6 +1667,13 @@ const products = [
         category: "Earrings",
         image: "GoddessShanghuJhumkaWithPearlDrops39.jpeg"
     },
+      {
+        id: 239,
+        name: "Jadau KundanLeaf Bugadi",
+        price: 29,
+        category: "Earrings",
+        image: "JadauKundanLeafFloralDesignBugadi29.jpeg"
+    },
 ];
 
 // --- State ---
