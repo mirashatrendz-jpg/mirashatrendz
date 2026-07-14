@@ -1646,6 +1646,13 @@ const products = [
         category: "Anti-Tarnish",
         image: "OpenablePinkEnamelButterflyPendantNecklace.webp"
     },
+     {
+        id: 236,
+        name: "Premium Earcuff Jhumka",
+        price: 59,
+        category: "Earrings",
+        image: "PremiumEarcuffJhumka59.jpeg"
+    },
 ];
 
 // --- State ---
