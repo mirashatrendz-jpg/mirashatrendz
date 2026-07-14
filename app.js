@@ -1688,6 +1688,13 @@ const products = [
         category: "Earrings",
         image: "LayeredPearlPremiumEarrings59.jpeg"
     },
+     {
+        id: 242,
+        name: "Peacock Jhumka",
+        price: 49,
+        category: "Earrings",
+        image: "PeacockJhumkawithPearlDrop49.jpeg"
+    },
 ];
 
 // --- State ---
