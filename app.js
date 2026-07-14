@@ -1676,10 +1676,17 @@ const products = [
     },
      {
         id: 240,
-        name: "LakshmiWith PearlDrops",
+        name: "Lakshmi With PearlDrops",
         price: 49,
         category: "Earrings",
         image: "AntiqueLakshmiJhumkaWithpearlDrops49.jpeg"
+    },
+     {
+        id: 241,
+        name: "Pearl Premium Earrings",
+        price: 59,
+        category: "Earrings",
+        image: "LayeredPearlPremiumEarrings59.jpeg"
     },
 ];
 
