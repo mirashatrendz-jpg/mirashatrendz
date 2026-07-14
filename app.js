@@ -1703,7 +1703,7 @@ const products = [
         image: "NayantharaInspiredHeavyJhumka49.jpeg"
     },
      {
-        id: 243,
+        id: 244,
         name: "Ruby and Emerald Beads Jhumka",
         price: 39,
         category: "Earrings",
