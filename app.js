@@ -1667,12 +1667,19 @@ const products = [
         category: "Earrings",
         image: "GoddessShanghuJhumkaWithPearlDrops39.jpeg"
     },
-      {
+     {
         id: 239,
         name: "Jadau KundanLeaf Bugadi",
         price: 29,
         category: "Earrings",
         image: "JadauKundanLeafFloralDesignBugadi29.jpeg"
+    },
+     {
+        id: 240,
+        name: "LakshmiWith PearlDrops",
+        price: 49,
+        category: "Earrings",
+        image: "AntiqueLakshmiJhumkaWithpearlDrops49.jpeg"
     },
 ];
 
