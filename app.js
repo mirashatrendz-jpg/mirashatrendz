@@ -1655,10 +1655,10 @@ const products = [
     },
      {
         id: 237,
-        name: "Goddess Shanghu Jhumka",
-        price: 39,
+        name: "Antique Umbrella Jhumka",
+        price: 49,
         category: "Earrings",
-        image: "GoddessShanghuJhumkaWithPearlDrops39.jpeg"
+        image: "AntiqueUmbrellaGoddessJhumka49.jpeg"
     },
 ];
 
