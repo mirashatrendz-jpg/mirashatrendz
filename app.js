@@ -1695,6 +1695,13 @@ const products = [
         category: "Earrings",
         image: "PeacockJhumkawithPearlDrop49.jpeg"
     },
+      {
+        id: 243,
+        name: "Nayanthara Inspired Heavy Jhumka",
+        price: 39,
+        category: "Earrings",
+        image: "NayantharaInspiredHeavyJhumka49.jpeg"
+    },
      {
         id: 243,
         name: "Ruby and Emerald Beads Jhumka",
