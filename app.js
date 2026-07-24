@@ -111,7 +111,7 @@ const products = [
         name: "Premium Elephant Motif Choker",
         price: 49,
         category: "Necklaces",
-        image: "PremiumElephantMotifChokerSet.webp"
+        image: "PremiumElephantMotifChoker.jpeg"
     },
      {
         id: 17,
