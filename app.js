@@ -48,7 +48,7 @@ const products = [
         name: "Antique Lakshmi Pendant InvisibleChain",
         price: 39,
         category: "Necklaces",
-        image: "AntiqueLakshmiPendantInvisibleChain.webp"
+        image: "AntiqueLakshmiPendantInvisibleChain.jpeg"
     },
      {
         id: 8,
