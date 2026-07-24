@@ -24,10 +24,10 @@ const products = [
     },
      {
         id: 4,
-        name: "RubyStoneBeautifulGoddessWhitebeadsNecklace",
+        name: "Ruby Stone Necklace",
         price: 49,
         category: "Necklaces",
-        image: "RubyStoneBeautifulGoddessWhitebeadsNecklace.webp"
+        image: "RubyStoneBeautifulGoddessWhitebeadsNecklace.jpeg"
     },
      {
         id: 5,
