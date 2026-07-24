@@ -62,7 +62,7 @@ const products = [
         name: "Ruby-Emerald Peacock Floral Choker Set",
         price: 39,
         category: "Necklaces",
-        image: "Ruby-EmeraldPeacockFloralChokerSet.webp"
+        image: "Ruby-EmeraldPeacockFloralChokerSet.jpeg"
     },
      {
         id: 10,
