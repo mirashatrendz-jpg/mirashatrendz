@@ -83,7 +83,7 @@ const products = [
         name: "Multicolor Flower Choker",
         price: 39,
         category: "Necklaces",
-        image: "MulticolorFlowerChoker.webp"
+        image: "MulticolorFlowerChoker.jpeg"
     },
      {
         id: 13,
