@@ -524,7 +524,7 @@ const products = [
         name: "Non-idol Bridal Set",
         price: 99,
         category: "Haarams",
-        image: "Non-idolBridalSet.webp"
+        image: "Non-idolHaaram.JPG.jpeg"
     },
      {
         id: 76,
