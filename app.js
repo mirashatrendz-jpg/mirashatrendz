@@ -146,7 +146,7 @@ const products = [
         name: "Antique Floral Multistone Choker",
         price: 29,
         category: "Necklaces",
-        image: "AntiqueFloralMultistoneChoker.webp"
+        image: "AntiqueFloralMultistoneChoker.jpeg"
     },
      {
         id: 22,
