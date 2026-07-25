@@ -500,10 +500,10 @@ const products = [
     },
      {
         id: 72,
-        name: "Peacock Goddess Pearl Haaram",
+        name: "Peacock Pearl Haaram",
         price: 59,
         category: "Haarams",
-        image: "PeacockGoddessPearlHaaram.JPG.jpeg"
+        image: "PeacockGoddessPearlHaaram.jpeg"
     },
      {
         id: 73,
