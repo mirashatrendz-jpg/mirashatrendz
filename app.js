@@ -454,7 +454,7 @@ const products = [
         name: "Lakshmi Vaibhavam Ruby Beads Haaram",
         price: 79,
         category: "Haarams",
-        image: "LakshmiVaibhavamRubyBeadsHaaram.webp"
+        image: "LakshmiVaibhavamRubyBeadsHaaram.jpeg"
     },
      {
         id: 66,
