@@ -521,8 +521,8 @@ const products = [
     },
      {
         id: 75,
-        name: "Non-idol Bridal Set",
-        price: 99,
+        name: "Non-idol Bridal",
+        price: 79,
         category: "Haarams",
         image: "Non-idolbeAUTYHaaram.JPG.jpeg"
     },
@@ -556,10 +556,10 @@ const products = [
     },
      {
         id: 80,
-        name: "Non-idol Haaram",
-        price: 79,
+        name: "Non-idol Haaram Set",
+        price: 99,
         category: "Haarams",
-        image: "Non-idolHaaram.webp"
+        image: "Non-idolBridalbeautylSet.webp"
     },
      {
         id: 81,
