@@ -461,7 +461,7 @@ const products = [
         name: "Layered Pearl Mahalakshmi Pendant Haaram",
         price: 49,
         category: "Haarams",
-        image: "LayeredPearlMahalakshmiPendantHaaram.JPG.jpeg"
+        image: ""
     },
      {
         id: 67,
@@ -475,7 +475,7 @@ const products = [
         name: "Idol Pendant Gold Beads Haaram",
         price: 39,
         category: "Haarams",
-        image: "IdolPendantGoldBeadsHaaram.webp"
+        image: "IdolPendantGoldBeadsHaaram.JPG.jpeg"
     },
      {
         id: 69,
