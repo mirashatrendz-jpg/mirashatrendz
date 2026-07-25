@@ -489,7 +489,7 @@ const products = [
         name: "Green Enamel Lakshmi Pendant Ball Chain Haaram",
         price: 49,
         category: "Haarams",
-        image: "GreenEnamelLakshmiPendantBallChainHaaram.webp"
+        image: "GreenEnamelLakshmiPendantBallChainHaaram.JPG.jpeg"
     },
      {
         id: 71,
