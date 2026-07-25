@@ -405,7 +405,8 @@ const products = [
         name: "Minimal Diamond Vine Choker",
         price: 39,
         category: "AD Necklace",
-        image: "MinimalDiamondVineChoker.webp"
+        image: "MinimalDiamondVineChoker.webp",
+        soldOut: true,
     },
      {
         id: 59,
