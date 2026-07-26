@@ -1713,6 +1713,14 @@ const products = [
         category: "Earrings",
         image: "GoddessJhumkawithHangingRubyandEmeraldBeads39.jpeg"
     },
+      {
+        id: 245,
+        name: "Srinivasa Kalyana Hararam",
+        price: 99,
+        category: "Haarams",
+        image: "SrinivasaKalyanaHararam.PNG",
+        soldOut:true,
+    },
 ];
 
 // --- State ---
