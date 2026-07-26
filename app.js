@@ -1594,17 +1594,18 @@ const products = [
     },
      {
         id: 228,
-        name: "Enamel details Cat and Flower Pendant Necklace",
+        name: "Enamel Pendant Necklace",
         price: 19,
         category: "Anti-Tarnish",
         image: "EnameldetailsCatandFlowerPendantNecklace.webp"
     },
      {
         id: 229,
-        name: "FloralCharmsandColourfulStonesNecklace",
+        name: "Floral Charms",
         price: 19,
         category: "Anti-Tarnish",
-        image: "FloralCharmsandColourfulStonesNecklace.webp"
+        image: "FloralCharmsandColourfulStonesNecklace.webp",
+        soldOut: true,
     },
      {
         id: 230,
@@ -1612,11 +1613,11 @@ const products = [
         price: 19,
         category: "Anti-Tarnish",
         image: "SolidButterflyCharmswithColorfulStonesNecklace.webp",
-         soldOut: true,
+        soldOut: true,
     },
      {
         id: 231,
-        name: "Openable Floral Pendant Necklace",
+        name: "Openable Floral Pendant",
         price: 19,
         category: "Anti-Tarnish",
         image: "OpenableFloralPendantNecklace.webp"
@@ -1630,7 +1631,7 @@ const products = [
     },
      {
         id: 233,
-        name: "Double Layer Necklace With Heart and Bow",
+        name: "Double Layer Necklace",
         price: 19,
         category: "Anti-Tarnish",
         image: "DoubleLayerNecklaceWithHeartandBow.webp"
@@ -1644,7 +1645,7 @@ const products = [
     },
      {
         id: 235,
-        name: "Pink Enamel Butterfly Pendant Necklace",
+        name: "Pink Enamel Necklace",
         price: 19,
         category: "Anti-Tarnish",
         image: "OpenablePinkEnamelButterflyPendantNecklace.webp"
