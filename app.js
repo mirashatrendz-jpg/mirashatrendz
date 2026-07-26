@@ -1608,10 +1608,11 @@ const products = [
     },
      {
         id: 230,
-        name: "Solid Butterfly Charms with Colorful Stones Necklace",
+        name: "Solid Butterfly Charms",
         price: 19,
         category: "Anti-Tarnish",
-        image: "SolidButterflyCharmswithColorfulStonesNecklace.webp"
+        image: "SolidButterflyCharmswithColorfulStonesNecklace.webp",
+         soldOut: true,
     },
      {
         id: 231,
