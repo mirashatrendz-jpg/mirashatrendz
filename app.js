@@ -378,7 +378,7 @@ const products = [
         name: "Green Lotus Choker Necklace",
         price: 49,
         category: "Necklaces",
-        image: "GreenLotusChokerNecklace.webp"
+        image: "GreenLotusChokerNecklace.jpeg"
     },
      {
         id: 55,
