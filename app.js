@@ -6,7 +6,6 @@ const products = [
         price: 49,
         category: "Necklaces",
         image: "IdolCoinMaangaNecklace.webp",
-        soldOut: true,
     },
      {
         id: 2,
@@ -1720,6 +1719,14 @@ const products = [
         category: "Haarams",
         image: "SrinivasaKalyanaHararam.PNG",
         soldOut:true,
+    },
+     {
+        id: 1,
+        name: "Aahana Inspired Necklace",
+        price: 49,
+        category: "Necklaces",
+        image: "AahanaInspiredNecklace.PNG",
+        soldOut: true,
     },
 ];
 
