@@ -720,9 +720,10 @@ const products = [
       {
         id: 103,
         name: "Diamond Dew Necklace",
-        price: 39,
+        price: 60,
         category: "AD Necklaces",
         image: "DiamondDewNecklace.webp"
+        soldOut: true,
     },
      {
         id: 104,
