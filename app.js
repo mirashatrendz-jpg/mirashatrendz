@@ -502,7 +502,7 @@ const products = [
      {
         id: 72,
         name: "Peacock Pearl Haaram",
-        price: 59,
+        price: 80,
         category: "Haarams",
         image: "PeacockGoddessPearlHaaram.jpeg"
     },
