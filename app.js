@@ -509,7 +509,7 @@ const products = [
      {
         id: 73,
         name: "Dasavathara Temple Haaram",
-        price: 89,
+        price: 110,
         category: "Haarams",
         image: "DasavatharaTempleHaaram.JPG.jpeg"
     },
