@@ -614,7 +614,7 @@ const products = [
      {
         id: 88,
         name: "WaterDrop Diamond Necklace",
-        price: 39,
+        price: 60,
         category: "AD Necklaces",
         image: "WaterDropDiamondNecklace.webp"
     },
