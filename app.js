@@ -439,7 +439,7 @@ const products = [
      {
         id: 63,
         name: "Antique Jadau Coin Haaram",
-        price: 69,
+        price: 90,
         category: "Haarams",
         image: "AntiqueJadauCoinHaaram.webp"
     },
