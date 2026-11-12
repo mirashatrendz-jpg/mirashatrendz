@@ -677,9 +677,10 @@ const products = [
      {
         id: 97,
         name: "Snow Flakes Diamond Necklace",
-        price: 49,
+        price: 60,
         category: "AD Necklaces",
         image: "SnowFlakesDiamondNecklace.webp"
+        soldOut: true,
     },
       {
         id: 98,
